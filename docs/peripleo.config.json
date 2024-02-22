@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus",
+      "name": "Lope",
       "format": "LINKED_PLACES",
-      "src": "./data/VisitPlus-UK.lp.json",
+      "src": "./data/Peripleo_Data_1708597332.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
