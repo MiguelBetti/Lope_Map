@@ -6,7 +6,7 @@
       "name": "Lope",
       "format": "LINKED_PLACES",
       "src": "./data/Drama.json",
-      "attribution": "Drama <a href=\"https://github.com/MiguelBetti/Lope_peripleo/\" target=\"_blank\">Lope</a>"
+      "attribution": "Drama <a href=\"https://github.com/MiguelBetti/Lope_peripleo\" target=\"_blank\">Lope</a>"
     }
   ],
   "facets": [
