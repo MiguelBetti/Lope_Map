@@ -3,14 +3,21 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Lope",
+      "name": "Drama",
       "format": "LINKED_PLACES",
       "src": "./data/Drama.json",
       "attribution": "Lope"
-    }
+    },
+    {
+      "name": "Comedia",
+      "format": "LINKED_PLACES",
+      "src": "./data/Comedia.json",
+      "attribution": "Lope"
+    }  
   ],
   "facets": [
-	  { "name": "Obras", "path": ["properties", "obra"] }
+	  { "name": "Obras", "path": ["properties", "obra"] },
+	  "dataset"
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
