@@ -1,1124 +1,1454 @@
 {
-    "@id": "https://w3id.org/drama",
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
-        {
-            "@id": "https://w3id.org/drama/0b817a8b-69c6-49ac-8a09-0ba514f86ccb",
-            "type": "Feature",
-            "properties": {
-                "title": "Mesopotamia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    44.40088,
-                    33.34058
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/462314"}
+   "@id":"https://w3id.org/drama",
+   "type":"FeatureCollection",
+   "@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+   "features":[
+      {
+         "@id":"https://w3id.org/drama/d65c6d5b-09b2-4d30-80d0-e6f9bd5e2a56",
+         "type":"Feature",
+         "properties":{
+            "title":"Mesopotamia",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               44.40088,
+               33.34058
             ]
-        },
-        {
-            "@id": "https://w3id.org/drama/dafe95bf-4163-41ff-b658-f1ecccf3a1b5",
-            "type": "Feature",
-            "properties": {
-                "title": "Damasco",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.309102,
-                    33.511612
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/678106"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/cb161b2d-9a70-4bc3-b40f-9c50a6d2cd23",
-            "type": "Feature",
-            "properties": {
-                "title": "Persia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    52.889437,
-                    29.9353403333
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/922695"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/530a4ccd-73ab-48c9-8d35-874ac89f8404",
-            "type": "Feature",
-            "properties": {
-                "title": "Marsella",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.38107,
-                    43.29695
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2995469"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/907986e5-4abb-4df2-882e-71cff68509ff",
-            "type": "Feature",
-            "properties": {
-                "title": "Roma antigua",
-                "obras": "Lo fingido verdadero, Fuente Ovejuna",
-                "menciones": 71
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.4847567763,
-                    41.8925745251
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/502866838"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/98105dbc-3da6-4f6c-8dd0-ec70de27a35e",
-            "type": "Feature",
-            "properties": {
-                "title": "Troya",
-                "obras": "Lo fingido verdadero, Laura perseguida",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.23666572,
-                    39.954496182
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/550595"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/f00e216d-3878-4325-ab88-dd313c495461",
-            "type": "Feature",
-            "properties": {
-                "title": "Epiro",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.7877021411,
-                    39.5464840166
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/530871"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/5044081f-df45-4afe-990f-5d7fea32e745",
-            "type": "Feature",
-            "properties": {
-                "title": "Lacedemonia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    22.4601869,
-                    37.075742175
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/570406"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/8eb8f16a-1636-4b15-aae8-740aa5b7c225",
-            "type": "Feature",
-            "properties": {
-                "title": "Asia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    89.29688,
-                    29.84064
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/6255147"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/989fffb4-a1f3-4356-80ea-35e7fbbd68ce",
-            "type": "Feature",
-            "properties": {
-                "title": "España",
-                "obras": "Lo fingido verdadero",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.74922,
-                    40.463667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2510769"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/414a42f6-c18f-4d1e-b5bb-f81b1030aeb5",
-            "type": "Feature",
-            "properties": {
-                "title": "Grecia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.824312,
-                    39.074208
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/390903"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/e36adc79-1655-40b3-90c2-97a51575fed7",
-            "type": "Feature",
-            "properties": {
-                "title": "Indias",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.552784,
-                    23.634501
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117789"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/fa22f136-2d76-4457-890a-1db8fe4da688",
-            "type": "Feature",
-            "properties": {
-                "title": "Libia",
-                "obras": "Lo fingido verdadero",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.228331,
-                    26.3351
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2215636"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/ca3118bf-5223-4fdf-97e9-47e1b616f9f5",
-            "type": "Feature",
-            "properties": {
-                "title": "Atenas",
-                "obras": "Lo fingido verdadero, Laura perseguida",
-                "menciones": 4
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.726587521,
-                    37.9727951076
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/579885"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1ef9f4c2-4028-4b03-8035-28f3ce97f255",
-            "type": "Feature",
-            "properties": {
-                "title": "Siria",
-                "obras": "Lo fingido verdadero",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.996815,
-                    34.802075
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/163843"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/cac80186-1e1a-4364-8c00-deb817e37ff8",
-            "type": "Feature",
-            "properties": {
-                "title": "Italia",
-                "obras": "Lo fingido verdadero, Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.83333,
-                    42.83333
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3175395"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/142b290a-b90a-42b4-92aa-69da6f040843",
-            "type": "Feature",
-            "properties": {
-                "title": "Hungría",
-                "obras": "Laura perseguida",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20,
-                    47
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/719819"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/a20ce5cb-4c81-4ec1-8298-d313f0616aff",
-            "type": "Feature",
-            "properties": {
-                "title": "Etiopía",
-                "obras": "Laura perseguida",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.5,
-                    9
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/337996"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1fd6bcdc-caf6-4e13-9db0-92b7c2e01a20",
-            "type": "Feature",
-            "properties": {
-                "title": "Arabia",
-                "obras": "Laura perseguida",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    45.7590517643,
-                    14.9082523955
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/29475"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/6e5fc587-fb14-4e8a-9f93-5f1a476d45e3",
-            "type": "Feature",
-            "properties": {
-                "title": "España",
-                "obras": "Laura perseguida, Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 5
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.74922,
-                    40.463667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2510769"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/2b53dea4-3706-4779-b4e0-4e1593691a2d",
-            "type": "Feature",
-            "properties": {
-                "title": "Santiago de Compostela",
-                "obras": "Laura perseguida",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -8.54569,
-                    42.88052
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3109642"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1222e4a3-28ce-4660-b0b9-ab623b01bb22",
-            "type": "Feature",
-            "properties": {
-                "title": "Cleves",
-                "obras": "La hermosa Alfreda",
-                "menciones": 16
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.13865,
-                    51.78826
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2887835"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/100ceb94-7499-494b-ae60-789f4d61827c",
-            "type": "Feature",
-            "properties": {
-                "title": "Dalmacia",
-                "obras": "La hermosa Alfreda",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.483426,
-                    43.539561
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/197240"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/9cdacae2-f565-4265-81a5-2090de76e2f1",
-            "type": "Feature",
-            "properties": {
-                "title": "Escocia",
-                "obras": "La hermosa Alfreda",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4,
-                    56
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2638360"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/bc95b0c0-0515-4c74-96d7-d5d2bad6270a",
-            "type": "Feature",
-            "properties": {
-                "title": "Chipre",
-                "obras": "La hermosa Alfreda",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33,
-                    35
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/146669"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/48171b81-88cf-420e-beac-f4bad7eaa2b1",
-            "type": "Feature",
-            "properties": {
-                "title": "Marruecos",
-                "obras": "La hermosa Alfreda",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -10,
-                    28.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2542007"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/57a5c33e-a13b-4ed2-bd8c-7dafc331eedf",
-            "type": "Feature",
-            "properties": {
-                "title": "Aragón",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 32
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.66667,
-                    41.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/3336899"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/0ff5c2df-33c9-4064-bf6d-e2afabb3680b",
-            "type": "Feature",
-            "properties": {
-                "title": "Castilla",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 33
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.25,
-                    41.66667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3104199"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/9c740dce-8bec-404c-a73f-790614e4e61d",
-            "type": "Feature",
-            "properties": {
-                "title": "Teruel",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 6
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.10646,
-                    40.3456
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3108126"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/335c0054-4026-41e4-abef-1cb047e4d059",
-            "type": "Feature",
-            "properties": {
-                "title": "Zaragoza",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 6
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.87734,
-                    41.65606
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3104324"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/0e932650-cbf6-4b18-9bcd-202cb86a789f",
-            "type": "Feature",
-            "properties": {
-                "title": "Navarra",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 4
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.66667,
-                    42.75
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3115609"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/880a134d-b5ba-4692-aa1b-0daa884c32a2",
-            "type": "Feature",
-            "properties": {
-                "title": "Valencia",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.37739,
-                    39.46975
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2509954"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/b5f53a5c-6a8c-46aa-b479-a75703e7b560",
-            "type": "Feature",
-            "properties": {
-                "title": "Nápoles",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.24641,
-                    40.85631
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117766"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/521a2dcf-e25c-451a-bd05-ff696a6e63a8",
-            "type": "Feature",
-            "properties": {
-                "title": "Sevilla",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.97317,
-                    37.38283
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2510911"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/a89fbdf2-279d-4378-a2a3-2e83ce77cabe",
-            "type": "Feature",
-            "properties": {
-                "title": "Gibraltar",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.35257,
-                    36.14474
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2411585"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/e2adcaa0-4710-4db3-b340-042c7efa6d7a",
-            "type": "Feature",
-            "properties": {
-                "title": "África",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.09375,
-                    7.1881
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/6255146"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/17eeb041-fad8-439e-be13-995585a39c34",
-            "type": "Feature",
-            "properties": {
-                "title": "Mallorca",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.01197,
-                    39.6078
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2514239"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/caf5358f-57ce-48f0-b314-2ede4c8bbe90",
-            "type": "Feature",
-            "properties": {
-                "title": "Portugal",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón, Fuente Ovejuna",
-                "menciones": 6
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -8.13057,
-                    39.6945
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2264397"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/915da4b8-2ddd-450e-be05-80756597a940",
-            "type": "Feature",
-            "properties": {
-                "title": "Madrid",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.70256,
-                    40.4165
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117735"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/e9fdb6e8-12ad-436f-bb3c-d7b47bca4407",
-            "type": "Feature",
-            "properties": {
-                "title": "Francia",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2,
-                    46
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3017382"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/fa0e05e4-94ba-4603-bd79-e0328ed8e08b",
-            "type": "Feature",
-            "properties": {
-                "title": "Toledo",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.02263,
-                    39.8581
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3372516"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/691cdac0-5067-4ce4-9794-e80584715dbe",
-            "type": "Feature",
-            "properties": {
-                "title": "Barcelona",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.15899,
-                    41.38879
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3128760"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/0a644c40-458f-479d-a04e-cd3e019df65c",
-            "type": "Feature",
-            "properties": {
-                "title": "Jaca",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.54987,
-                    42.56898
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/3120211"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/74f564ee-5ea7-4081-9fe7-db8c760750d5",
-            "type": "Feature",
-            "properties": {
-                "title": "Jerusalén",
-                "obras": "Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.234156,
-                    31.776679
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/687928"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/ec1d15fe-e6f6-44c7-8917-e2a7c02f0a82",
-            "type": "Feature",
-            "properties": {
-                "title": "Almagro",
-                "obras": "Fuente Ovejuna",
-                "menciones": 2
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.71131,
-                    38.88941
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2521928"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/84d5abe1-8355-42ac-8977-ab026a761c90",
-            "type": "Feature",
-            "properties": {
-                "title": "Ciudad Real",
-                "obras": "Fuente Ovejuna",
-                "menciones": 10
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4,
-                    39
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2519401"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1764b87a-b0eb-42b7-b055-b24011803875",
-            "type": "Feature",
-            "properties": {
-                "title": "Andalucía",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.5,
-                    37.6
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3117825"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/325d23bd-6988-433d-8f1c-b03d4a9b80f5",
-            "type": "Feature",
-            "properties": {
-                "title": "Fuente Ovejuna",
-                "obras": "Fuente Ovejuna",
-                "menciones": 36
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.45186,
-                    38.26232
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/6357224"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/1273da8d-30a7-49b7-b22c-4c5dc5e1cee1",
-            "type": "Feature",
-            "properties": {
-                "title": "Granada",
-                "obras": "Fuente Ovejuna",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.59078,
-                    37.18863
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/6357709"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/18cf31ee-0313-4001-9f7b-38e96109a71a",
-            "type": "Feature",
-            "properties": {
-                "title": "Extremadura",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.16667,
-                    39.16667
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/2593112"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/07d36642-d802-4182-8e69-98c30ab1976c",
-            "type": "Feature",
-            "properties": {
-                "title": "Córdoba",
-                "obras": "Fuente Ovejuna",
-                "menciones": 3
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.77275,
-                    37.89155
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2519240"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/6553a3af-72ac-46d2-96c9-69239b6968e3",
-            "type": "Feature",
-            "properties": {
-                "title": "Transilvania",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    25,
-                    46.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "http://www.geonames.org/664661"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/83686201-6020-4053-aaf9-eb6cb78cd927",
-            "type": "Feature",
-            "properties": {
-                "title": "Alemania",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.5,
-                    51.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/2921044"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/b4df4e5b-0caa-4b84-9a37-5a6153271efd",
-            "type": "Feature",
-            "properties": {
-                "title": "Gascuña",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    43.5
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://www.geonames.org/3016565"}
-            ]
-        },
-        {
-            "@id": "https://w3id.org/drama/cc927ff1-b0cd-4f71-8ee9-5673db531f85",
-            "type": "Feature",
-            "properties": {
-                "title": "Hircania",
-                "obras": "Fuente Ovejuna",
-                "menciones": 1
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.5626572101,
-                    38.7184715253
-                ]
-            },
-            "links": [
-                {"type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/550587"}
-            ]
-        }
-    ],
-    "indexing": {
-        "@type": "Dataset",
-        "name": "Drama",
-        "description": "",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "type": "closeMatch",
-                "identifier": "https://w3id.org/drama",
-        "temporalCoverage": "1066/2022",
-        "spatialCoverage": {
-            "@type": "GeoShape",
-            "box": "0.580101 0.00149 60.355 9.78667",
-            "geo": {
-                "@type": "GeoShape",
-                "box": "7.1881 0 56 102.552784"
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/462314"
             }
-        }
-    }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/286aec7a-a49c-4741-b249-4620ac7c9a55",
+         "type":"Feature",
+         "properties":{
+            "title":"Damasco",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               36.309102,
+               33.511612
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/678106"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/b8f62f8e-1617-4220-bc7d-bcfe76872ab4",
+         "type":"Feature",
+         "properties":{
+            "title":"Persia",
+            "obra":"Lo fingido verdadero",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               52.889437,
+               29.9353403333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/922695"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/fd685df8-1c44-42ad-af62-f28bb8d67be8",
+         "type":"Feature",
+         "properties":{
+            "title":"Marsella",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               5.38107,
+               43.29695
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2995469"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/2c02bad9-1318-422e-9490-3de78384b188",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"Lo fingido verdadero",
+            "menciones":70
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/ea960103-c548-4084-a765-26747097de1c",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"Lo fingido verdadero",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/3228884e-d84d-46d6-ba99-8efcd1496455",
+         "type":"Feature",
+         "properties":{
+            "title":"Epiro",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20.7877021411,
+               39.5464840166
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/530871"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/d39b0ee8-877a-4cef-81f7-a65152f495f2",
+         "type":"Feature",
+         "properties":{
+            "title":"Lacedemonia",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.4601869,
+               37.075742175
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/570406"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/cde49f17-6d56-4cd7-8bb6-8ac3e4a1b317",
+         "type":"Feature",
+         "properties":{
+            "title":"Asia",
+            "obra":"Lo fingido verdadero",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               89.29688,
+               29.84064
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6255147"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/118de95e-c029-4ea4-9bf5-246d3741c449",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Lo fingido verdadero",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/8503da51-9788-4c3a-add4-b5a78dbc02f3",
+         "type":"Feature",
+         "properties":{
+            "title":"Grecia",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.824312,
+               39.074208
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/390903"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/9c14c804-7d12-49c1-a580-b3ade2edaef5",
+         "type":"Feature",
+         "properties":{
+            "title":"Indias",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -102.552784,
+               23.634501
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117789"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/a88e6006-551a-49ad-a9cb-92d774997a79",
+         "type":"Feature",
+         "properties":{
+            "title":"Libia",
+            "obra":"Lo fingido verdadero",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               17.228331,
+               26.3351
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2215636"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/c99a37c8-4f2e-4684-b120-729e59ea55e6",
+         "type":"Feature",
+         "properties":{
+            "title":"Atenas",
+            "obra":"Lo fingido verdadero",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.726587521,
+               37.9727951076
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/579885"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/54ba4426-b4f7-4b07-be7f-d40672f72d0e",
+         "type":"Feature",
+         "properties":{
+            "title":"Siria",
+            "obra":"Lo fingido verdadero",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               38.996815,
+               34.802075
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/163843"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/c09f0140-2f59-4333-aa6f-d1aef4e32cef",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":"Lo fingido verdadero",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/d494040f-6784-4ca5-8141-5fab31c41d63",
+         "type":"Feature",
+         "properties":{
+            "title":"Atenas",
+            "obra":"Laura perseguida",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.726587521,
+               37.9727951076
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/579885"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/6aea5d1f-385e-40c8-a23d-1ea39f2c5322",
+         "type":"Feature",
+         "properties":{
+            "title":"Hungría",
+            "obra":"Laura perseguida",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20,
+               47
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/719819"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/31c3678a-e5c3-4226-98ec-f1186e2fc4a6",
+         "type":"Feature",
+         "properties":{
+            "title":"Etiopía",
+            "obra":"Laura perseguida",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               39.5,
+               9
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/337996"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/b12428c3-c0a8-400e-ae81-d65beb909443",
+         "type":"Feature",
+         "properties":{
+            "title":"Troya",
+            "obra":"Laura perseguida",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.23666572,
+               39.954496182
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550595"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/f2fa0f9d-f7ce-4248-b311-cc0ae450c3ab",
+         "type":"Feature",
+         "properties":{
+            "title":"Arabia",
+            "obra":"Laura perseguida",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               45.7590517643,
+               14.9082523955
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/29475"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/119b600d-c877-4444-80c4-f3415d708c8d",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Laura perseguida",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/00e7f0e6-a179-47c4-b3aa-a3e3c413d157",
+         "type":"Feature",
+         "properties":{
+            "title":"Santiago de Compostela",
+            "obra":"Laura perseguida",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.54569,
+               42.88052
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3109642"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/b385dcc2-5f99-4fec-b6e4-cb97f948a535",
+         "type":"Feature",
+         "properties":{
+            "title":"Cleves",
+            "obra":"La hermosa Alfreda",
+            "menciones":16
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               6.13865,
+               51.78826
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2887835"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/24b515ad-7f15-466d-a3e3-dd8e794aa8a7",
+         "type":"Feature",
+         "properties":{
+            "title":"Dalmacia",
+            "obra":"La hermosa Alfreda",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               16.483426,
+               43.539561
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/197240"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/5fb4ca4a-42a5-4192-9d4d-539a8c2880a0",
+         "type":"Feature",
+         "properties":{
+            "title":"Escocia",
+            "obra":"La hermosa Alfreda",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4,
+               56
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2638360"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/3a01d215-17d1-4edd-8c23-a7a0ab34c76b",
+         "type":"Feature",
+         "properties":{
+            "title":"Chipre",
+            "obra":"La hermosa Alfreda",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               33,
+               35
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/146669"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/27c0c98e-3831-4349-a0f6-ecd05d2d37ee",
+         "type":"Feature",
+         "properties":{
+            "title":"Marruecos",
+            "obra":"La hermosa Alfreda",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -10,
+               28.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2542007"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/bde7ced0-76ac-4a33-967e-0f3d37d1dd25",
+         "type":"Feature",
+         "properties":{
+            "title":"Aragón",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":27
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.66667,
+               41.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3336899"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/c75c0c83-9ed1-4888-bd08-b4f3b19f5ce1",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":21
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/4778a405-c10f-4cb1-9459-42ea90610b18",
+         "type":"Feature",
+         "properties":{
+            "title":"Teruel",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":6
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.10646,
+               40.3456
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3108126"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/24a45030-126b-4813-a89d-de51567283a2",
+         "type":"Feature",
+         "properties":{
+            "title":"Zaragoza",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":6
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.87734,
+               41.65606
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104324"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/aa1b80d5-84af-4bd7-ad4f-96e2dbadc4cb",
+         "type":"Feature",
+         "properties":{
+            "title":"Navarra",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.66667,
+               42.75
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3115609"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/d3cae7f2-6b74-4830-85fc-c571bf8bde70",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/0dc7b997-651a-41d2-a46a-4c4a45c42ccf",
+         "type":"Feature",
+         "properties":{
+            "title":"Valencia",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.37739,
+               39.46975
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2509954"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/582e1f29-d487-468b-9776-59ddb8b33e72",
+         "type":"Feature",
+         "properties":{
+            "title":"Nápoles",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.24641,
+               40.85631
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117766"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/56b2cbac-bb96-4a0d-bef0-05be8fbe873d",
+         "type":"Feature",
+         "properties":{
+            "title":"Sevilla",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.97317,
+               37.38283
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2510911"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/075668e7-99ca-495b-a22f-fe0bbbd2f20b",
+         "type":"Feature",
+         "properties":{
+            "title":"Gibraltar",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.35257,
+               36.14474
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2411585"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/1f12decd-69c9-462b-b2cc-2c846cd8ab7a",
+         "type":"Feature",
+         "properties":{
+            "title":"África",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.09375,
+               7.1881
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6255146"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/cfbfd51c-2766-47e8-8bbe-791bef1d03b4",
+         "type":"Feature",
+         "properties":{
+            "title":"Mallorca",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               3.01197,
+               39.6078
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2514239"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/c93ad96c-5234-4331-8627-5a02bfee2781",
+         "type":"Feature",
+         "properties":{
+            "title":"Italia",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.83333,
+               42.83333
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3175395"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/e529b072-5895-4f5d-bd87-4899d701509b",
+         "type":"Feature",
+         "properties":{
+            "title":"Portugal",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.13057,
+               39.6945
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2264397"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/788eae8f-2e84-4f6b-88b5-273305d96e1f",
+         "type":"Feature",
+         "properties":{
+            "title":"Madrid",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.70256,
+               40.4165
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117735"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/05b34fff-30e6-4294-8019-8e239533c145",
+         "type":"Feature",
+         "properties":{
+            "title":"Francia",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2,
+               46
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3017382"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/c6c0bb8f-72e7-4c82-ac74-2263f29a7483",
+         "type":"Feature",
+         "properties":{
+            "title":"Toledo",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.02263,
+               39.8581
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3372516"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/7ec87288-e4fb-4d4d-9bf2-2d12feb11c2b",
+         "type":"Feature",
+         "properties":{
+            "title":"Barcelona",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               2.15899,
+               41.38879
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3128760"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/e93a996e-ff17-458e-8494-c5ccffe81965",
+         "type":"Feature",
+         "properties":{
+            "title":"Jaca",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.54987,
+               42.56898
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3120211"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/45043c1b-7156-455d-bdd1-63825b783b6a",
+         "type":"Feature",
+         "properties":{
+            "title":"Jerusalén",
+            "obra":" Las mudanzas de fortuna y sucesos de don Beltrán de Aragón",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               35.234156,
+               31.776679
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/687928"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/ffd46379-5ba8-4199-8c2c-c92b41051b25",
+         "type":"Feature",
+         "properties":{
+            "title":"Portugal",
+            "obra":"Fuente Ovejuna",
+            "menciones":5
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -8.13057,
+               39.6945
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2264397"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/6ceccc9d-e8bb-4614-a46a-0f07798b4abd",
+         "type":"Feature",
+         "properties":{
+            "title":"Castilla",
+            "obra":"Fuente Ovejuna",
+            "menciones":12
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.25,
+               41.66667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3104199"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/4754fcd9-dc87-417f-a419-290ecdbe9e45",
+         "type":"Feature",
+         "properties":{
+            "title":"Aragón",
+            "obra":"Fuente Ovejuna",
+            "menciones":5
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.66667,
+               41.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/3336899"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/f130923c-ebe9-410d-a2c8-51b7a0c5232f",
+         "type":"Feature",
+         "properties":{
+            "title":"Almagro",
+            "obra":"Fuente Ovejuna",
+            "menciones":2
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.71131,
+               38.88941
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2521928"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/71c68341-60b5-4f91-ba83-b0a2c655d9de",
+         "type":"Feature",
+         "properties":{
+            "title":"Ciudad Real",
+            "obra":"Fuente Ovejuna",
+            "menciones":10
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4,
+               39
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2519401"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/180d2f7a-b65f-40db-94d0-f57c54f46e67",
+         "type":"Feature",
+         "properties":{
+            "title":"Andalucía",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.5,
+               37.6
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3117825"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/7ba25389-58b7-4aec-96fd-1b6bd0809c66",
+         "type":"Feature",
+         "properties":{
+            "title":"Fuente Obejuna",
+            "obra":"Fuente Ovejuna",
+            "menciones":36
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -5.45186,
+               38.26232
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/6357224"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/4270e6bd-a145-4376-a3ba-8ecf27c686f1",
+         "type":"Feature",
+         "properties":{
+            "title":"Granada",
+            "obra":"Fuente Ovejuna",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.59078,
+               37.18863
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/6357709"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/5e7c4937-14c3-420e-af4b-58722c3640cc",
+         "type":"Feature",
+         "properties":{
+            "title":"Navarra",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.66667,
+               42.75
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3115609"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/fa68d69d-11f7-4016-8aef-89b4198f4e59",
+         "type":"Feature",
+         "properties":{
+            "title":"Extremadura",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -6.16667,
+               39.16667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/2593112"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/7a6eb8df-ca76-455b-bcd3-0721db5267e0",
+         "type":"Feature",
+         "properties":{
+            "title":"Córdoba",
+            "obra":"Fuente Ovejuna",
+            "menciones":3
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.77275,
+               37.89155
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2519240"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/06b3430e-52c2-4199-85c9-450ffaf0067d",
+         "type":"Feature",
+         "properties":{
+            "title":"Transilvania",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25,
+               46.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"http://www.geonames.org/664661"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/27c69b71-bfc3-4620-aa05-979240895464",
+         "type":"Feature",
+         "properties":{
+            "title":"Alemania",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               10.5,
+               51.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2921044"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/f973c777-d5a8-4bab-8606-48a959cb78a3",
+         "type":"Feature",
+         "properties":{
+            "title":"Gascuña",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0,
+               43.5
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/3016565"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/2624e3ac-cea1-442b-8b95-bfa09a7c5683",
+         "type":"Feature",
+         "properties":{
+            "title":"Hircania",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.5626572101,
+               38.7184715253
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/550587"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/5af09bb0-623f-4cf7-9ebd-a27d5dff31d2",
+         "type":"Feature",
+         "properties":{
+            "title":"España",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -3.74922,
+               40.463667
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://www.geonames.org/2510769"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/drama/d6ff8e86-cd25-4d60-89c0-ff0ffc01c301",
+         "type":"Feature",
+         "properties":{
+            "title":"Roma",
+            "obra":"Fuente Ovejuna",
+            "menciones":1
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               12.4847567763,
+               41.8925745251
+            ]
+         },
+         "links":[
+            {
+               "type": "closeMatch",
+               "identifier":"https://pleiades.stoa.org/places/502866838"
+            }
+         ]
+      }
+   ],
+   "indexing":{
+      "@type":"Dataset",
+      "name":"Drama",
+      "description":"",
+      "license":"https://creativecommons.org/licenses/by/4.0/",
+      "type": "closeMatch",
+               "identifier":"https://w3id.org/drama",
+      "temporalCoverage":"1066/2022",
+      "spatialCoverage":{
+         "@type":"GeoShape",
+         "box":"0.580101 0.00149 60.355 9.78667",
+         "geo":{
+            "@type":"GeoShape",
+            "box":"7.1881 0 56 102.552784"
+         }
+      }
+   }
 }
