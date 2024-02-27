@@ -10,7 +10,6 @@
     }
   ],
   "facets": [
-     { "name": "Menciones", "path": ["properties", "menciones"] },
 	  { "name": "Obras", "path": ["properties", "obras"] }
   ],
   "link_icons": [
