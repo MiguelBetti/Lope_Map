@@ -16,7 +16,7 @@
     }  
   ],
   "facets": [
-	  { "name": "Obras", "path": ["properties", "obra"] },
+	  { "name": "Obras", "path": ["relations", "obra"] },
 	  "dataset"
   ],
   "link_icons": [
