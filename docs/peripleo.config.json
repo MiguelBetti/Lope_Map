@@ -11,7 +11,7 @@
   ],
   "facets": [
      { "name": "Menciones", "path": ["properties", "menciones"] },
-	  { "name": "Obras", "path": ["relations", "obras"] }
+	  { "name": "Obras", "path": ["properties", "obras"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
