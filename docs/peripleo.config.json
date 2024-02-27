@@ -7,17 +7,10 @@
       "format": "LINKED_PLACES",
       "src": "./data/Drama_relations.json",
       "attribution": "Lope"
-    },
-    {
-      "name": "Comedia",
-      "format": "LINKED_PLACES",
-      "src": "./data/Comedia.json",
-      "attribution": "Lope"
-    }  
+    }
   ],
   "facets": [
-	  { "name": "Obras", "path": ["relations", "obra"] },
-	  "dataset"
+	  { "name": "Obras", "path": ["relations", "obra"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
