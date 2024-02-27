@@ -6,11 +6,12 @@
       "name": "Lope",
       "format": "LINKED_PLACES",
       "src": "./data/Drama.json",
-      "attribution": "Drama <a href=\"https://github.com/MiguelBetti/Lope_peripleo\" target=\"_blank\">Lope</a>"
+      "attribution": "Lope"
     }
   ],
   "facets": [
-    "type"
+     { "name": "Menciones", "path": ["properties", "menciones"] },
+	  { "name": "Obras", "path": ["relations", "obras"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
