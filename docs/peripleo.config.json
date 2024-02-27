@@ -10,7 +10,7 @@
     }
   ],
   "facets": [
-	  { "name": "Obras", "path": ["properties", "obras"] }
+	  { "name": "Obras", "path": ["properties", "obra"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
