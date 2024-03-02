@@ -17,7 +17,6 @@
   ],
   "facets": [
 	  { "name": "Obras", "path": ["properties", "obra"] },
-	  { "name": "Menciones", "path": ["properties", "menciones"] },
 	  "dataset"
   ],
   "link_icons": [
