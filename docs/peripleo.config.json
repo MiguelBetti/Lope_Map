@@ -11,7 +11,9 @@
     }
   ],
   "facets": [
-	  { "name": "obra", "path": ["relations", "title"] }
+	  { "name": "Obras", "path": ["relations", "title"] },
+	  { "name": "Género", "path": ["relations", "genre"] },
+	  { "name": "Subgénero", "path": ["relations", "subgenre"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
