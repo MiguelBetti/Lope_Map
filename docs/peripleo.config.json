@@ -1,6 +1,7 @@
 {
   "initial_bounds": [-13.5, 45.5, -17, 32.5],
   "map_style": "./map-style-OSM.json",
+  "disableMyLocation": true,
   "data": [
     {
       "name": "Drama",
@@ -10,11 +11,10 @@
     }
   ],
   "facets": [
-	  { "name": "Lugar", "path": ["properties", "title"] },
 	  { "name": "Obras", "path": ["relations", "title"] },
 	  { "name": "Género", "path": ["relations", "genre"] },
 	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
-	  { "name": "fecha", "path": ["relations", "date"] }
+	  { "name": "Fecha", "path": ["relations", "date"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
