@@ -4,7 +4,7 @@
   "disableMyLocation": true,
   "data": [
     {
-      "name": "Drama",
+      "name": "Dramas",
       "format": "LINKED_PLACES",
       "src": "./data/drama_relations.json",
       "attribution": "Lope"
