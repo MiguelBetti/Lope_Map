@@ -10,7 +10,7 @@
       "attribution": "Lope"
     },
     {
-      "name": "Comedias",
+      "name": "Comedia",
       "format": "LINKED_PLACES",
       "src": "./data/comedia_relations.json",
       "attribution": "Lope"
@@ -18,8 +18,6 @@
   ],
   "facets": [
 	  { "name": "Obras", "path": ["relations", "title"] },
-	  { "name": "Género", "path": ["relations", "genre"] },
-	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
 	  "dataset"
   ],
   "link_icons": [
