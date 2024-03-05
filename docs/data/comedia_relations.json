@@ -1,4 +1,4 @@
-   {
+{
     "type": "FeatureCollection",
     "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
     "features": [
@@ -40,12 +40,8 @@
                     "genre": "Comedia",
                     "date": "1619"
                 }
-            ]
+         ]
    },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
       {
          "@id": "719819",
          "uuid": "https://www.geonames.org/390903",
@@ -107,10 +103,6 @@
                 }
             ]
         },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
       {
          "@id": "6255146",
          "uuid": "https://www.geonames.org/6255146",
@@ -150,11 +142,7 @@
                     "date": "1619"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "664661",
          "uuid": "http://www.geonames.org/664661",
@@ -194,11 +182,7 @@
                     "date": "1619"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "2921044",
          "uuid": "https://www.geonames.org/2921044",
@@ -238,11 +222,7 @@
                     "date": "1619"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "197240",
          "uuid": "https://pleiades.stoa.org/places/197240",
@@ -282,11 +262,7 @@
                     "date": "1619"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "2623032",
          "uuid": "http://www.geonames.org/2623032",
@@ -326,11 +302,7 @@
                     "date": "1619"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "502866838",
          "uuid": "https://pleiades.stoa.org/places/502866838",
@@ -391,11 +363,7 @@
                     "date": "1618"
                 }
             ]
-   },      
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },      
       {
          "@id": "3106672",
          "uuid": "https://www.geonames.org/3106672",
@@ -435,11 +403,7 @@
                     "date": "1620"
                 }
             ]
-   },   
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },   
       {
          "@id": "3337388",
          "uuid":"https://www.geonames.org/3337388",
@@ -486,11 +450,7 @@
                     "date": "1617"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "2510769",
          "uuid":"https://www.geonames.org/2510769",
@@ -551,11 +511,7 @@
                     "date": "1620"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "3173435",
          "uuid":"https://www.geonames.org/3173435",
@@ -595,11 +551,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "2485920",
          "uuid":"http://www.geonames.org/2485920",
@@ -639,11 +591,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3175395",
          "uuid":"https://www.geonames.org/3175395",
@@ -704,11 +652,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3117766",
          "uuid":"https://www.geonames.org/3117766",
@@ -762,11 +706,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3104199",
          "uuid":"https://www.geonames.org/3104199",
@@ -820,11 +760,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3117735",
          "uuid":"https://www.geonames.org/3117735",
@@ -878,11 +814,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "2509954",
          "uuid":"http://www.geonames.org/2509954",
@@ -922,11 +854,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "2518878",
          "uuid":"https://www.geonames.org/2518878",
@@ -966,11 +894,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3128760",
          "uuid":"https://www.geonames.org/3128760",
@@ -1017,12 +941,7 @@
                     "date": "1620"
                 }
             ]
-   },
-
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "550595",
          "uuid":"https://pleiades.stoa.org/places/550595",
@@ -1083,11 +1002,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3573345",
          "uuid":"http://www.geonames.org/3573345",
@@ -1127,11 +1042,7 @@
                     "date": "1620"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3104342",
          "uuid":"https://www.geonames.org/3104342",
@@ -1178,11 +1089,7 @@
                     "date": "1620"
                 }
             ]
-   },   
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },   
       {
          "@id": "3176959",
          "uuid":"http://www.geonames.org/3176959",
@@ -1222,11 +1129,7 @@
                     "date": "1620"
                 }
             ]
-   },         
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },         
       {
          "@id": "6357709",
          "uuid":"https://www.geonames.org/6357709",
@@ -1280,11 +1183,7 @@
                     "date": "1620"
                 }
             ]
-   },  
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },  
       {
          "@id": "2562770",
          "uuid":"http://www.geonames.org/2562770",
@@ -1331,11 +1230,7 @@
                     "date": "1618"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "3117789",
          "uuid":"https://www.geonames.org/3117789",
@@ -1389,11 +1284,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "2660646",
          "uuid":"http://www.geonames.org/2660646",
@@ -1433,11 +1324,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "2507480",
          "uuid":"http://www.geonames.org/2507480",
@@ -1477,11 +1364,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "3372516",
          "uuid":"https://www.geonames.org/3372516",
@@ -1535,11 +1418,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "2510911",
          "uuid":"http://www.geonames.org/2510911",
@@ -1586,11 +1465,7 @@
                     "date": "1617"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "3553478",
          "uuid":"http://www.geonames.org/3553478",
@@ -1630,11 +1505,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "6299337",
          "uuid":"http://www.geonames.org/6299337",
@@ -1674,11 +1545,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "6361741",
          "uuid":"https://www.geonames.org/6361741",
@@ -1725,11 +1592,7 @@
                     "date": "1620"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "6255148",
          "uuid":"https://www.geonames.org/6255148",
@@ -1769,11 +1632,7 @@
                     "date": "1617"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "6255148",
          "uuid":"https://www.geonames.org/3117825",
@@ -1813,11 +1672,7 @@
                     "date": "1617"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "2267057",
          "uuid":"http://www.geonames.org/2267057",
@@ -1857,11 +1712,7 @@
                     "date": "1617"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "3703443",
          "uuid":"https://www.geonames.org/3703443",
@@ -1901,11 +1752,7 @@
                     "date": "1617"
                 }
             ]
-   },  
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },  
       {
          "@id": "3109254",
          "uuid":"https://www.geonames.org/3109254",
@@ -1945,11 +1792,7 @@
                     "date": "1617"
                 }
             ]
-   },  
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },  
       {
          "@id": "520998",
          "uuid":"https://pleiades.stoa.org/places/520998",
@@ -1989,11 +1832,7 @@
                     "date": "1618"
                 }
             ]
-   },  
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },  
       {
          "@id": "146669",
          "uuid":"https://www.geonames.org/146669",
@@ -2033,11 +1872,7 @@
                     "date": "1618"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "3164600",
          "uuid":"https://www.geonames.org/3164600",
@@ -2077,11 +1912,7 @@
                     "date": "1618"
                 }
             ]
-   },
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },
       {
          "@id": "922695",
          "uuid":"https://pleiades.stoa.org/places/922695",
@@ -2121,11 +1952,7 @@
                     "date": "1618"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "174982",
          "uuid":"http://www.geonames.org/174982",
@@ -2165,11 +1992,7 @@
                     "date": "1618"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "8923209",
          "uuid":"https://www.geonames.org/8923209",
@@ -2209,11 +2032,7 @@
                     "date": "1618"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "6697802",
          "uuid":"https://www.geonames.org/6697802",
@@ -2253,11 +2072,7 @@
                     "date": "1618"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "298795",
          "uuid":"https://www.geonames.org/298795",
@@ -2297,11 +2112,7 @@
                     "date": "1618"
                 }
             ]
-   }, 
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      }, 
       {
          "@id": "3336899",
          "uuid":"http://www.geonames.org/3336899",
@@ -2341,11 +2152,7 @@
                     "date": "1618"
                 }
             ]
-   },       
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },       
       {
          "@id": "2264397",
          "uuid":"https://www.geonames.org/2264397",
@@ -2385,11 +2192,7 @@
                     "date": "1618"
                 }
             ]
-   },    
-   {
-    "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
-    "features": [
+      },    
       {
          "@id": "6362996",
          "uuid":"https://www.geonames.org/6362996",
@@ -2429,22 +2232,6 @@
                     "date": "1618"
                 }
             ]
-   },
-   ],
-   "indexing":{
-      "@type":"Dataset",
-      "name":"Comedia",
-      "description":"",
-      "license":"https://creativecommons.org/licenses/by/4.0/",
-      "identifier":"https://w3id.org/comedia",
-      "temporalCoverage":"1066/2022",
-      "spatialCoverage":{
-         "@type":"GeoShape",
-         "box":"0.580101 0.00149 60.355 9.78667",
-         "geo":{
-            "@type":"GeoShape",
-            "box":"7.1881 0.10574 56 102.552784"
-         }
       }
-   }
+   ]
 }
