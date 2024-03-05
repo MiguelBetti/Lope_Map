@@ -17,6 +17,7 @@
     }
   ],
   "facets": [
+	  { "name": "Género", "path": ["relations", "genre"] },
 	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
 	  { "name": "Obras", "path": ["relations", "title"] }
   ],
