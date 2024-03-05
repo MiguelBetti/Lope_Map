@@ -19,7 +19,8 @@
   "facets": [
 	  { "name": "Género", "path": ["relations", "genre"] },
 	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
-	  { "name": "Obras", "path": ["relations", "title"] }
+	  { "name": "Obras", "path": ["relations", "title"] },
+	  "dataset"
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
