@@ -6,7 +6,7 @@
     {
       "name": "Dramas",
       "format": "LINKED_PLACES",
-      "src": "./data/drama_relations.json",
+      "src": "./data/comedia_relations.json",
       "attribution": "Lope"
     }
   ],
