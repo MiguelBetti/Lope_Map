@@ -18,6 +18,7 @@
   ],
   "facets": [
 	  { "name": "Obras", "path": ["relations", "title"] },
+	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
 	  "dataset"
   ],
   "link_icons": [
