@@ -1,0 +1,35 @@
+import React from 'react';
+
+const tour = [{
+  target: '.p6o-search-button',
+  title: 'La aventura comienza aquí',
+  content: 'Haga click en el botón del catalejo para realizar una búsqueda específica por topónimos.',
+  disableBeacon: true
+}, {
+  target: '.p6o-filters-button',
+  content: 'O pulse el siguiente botón para abrir el panel de filtros y realizar búsquedas grupales.',
+  disableBeacon: true
+},{
+  target: '.p6o-facets',
+  title: 'Categorías',
+  content: 'El panel de filtros muestra distintos tipos de datos en diferentes colores, según la categoría seleccionada: género, subgénero u obra.',
+  disableBeacon: true
+},{
+  target: '.p6o-facets-carousel',
+  content: 'Haciendo clic en las flechas se pueden recorrer las categorías de filtros disponibles.',
+  disableBeacon: true
+},{
+  target: '.p6o-facets ul',
+  content: <div>Puede filtrar los datos del mapa haciendo clic en las etiquetas.</p></div>,
+  disableBeacon: true
+},{
+  target: 'body',
+  placement: 'center',
+  title: 'That\'s it!',
+  content: 
+    <span>
+      ¡Gracias por su tiempo!
+    </span>
+}];
+
+export default tour;
