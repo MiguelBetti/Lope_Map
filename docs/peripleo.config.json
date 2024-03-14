@@ -4,21 +4,15 @@
   "disableMyLocation": true,
   "data": [
     {
-      "name": "Drama",
+      "name": "Comedias y dramas",
       "format": "LINKED_PLACES",
       "type_object": ["Manuscript", "Manuscripts"],
-      "src": "./data/drama_relations.json",
-      "attribution": "Lope"
-    },
-    {
-      "name": "Comedia",
-      "format": "LINKED_PLACES",
-      "src": "./data/comedia_relations.json",
-      "attribution": "Lope"
+      "src": "./data/comedia_drama.json",
+      "attribution": "El mundo de Lope de Vega"
     }
   ],
   "facets": [
-	  { "name": "Género", "path": ["dataset"] },
+	  { "name": "Género", "path": ["relations", "genre"] },
 	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
 	  { "name": "Obras", "path": ["relations", "title"] }
   ],

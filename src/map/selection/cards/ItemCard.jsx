@@ -173,7 +173,7 @@ const ItemCard = props => {
             <div
               className="p6o-selection-related-records">
               <button onClick={goTo} >
-                <BiLink /> <span> Ver las obras </span>
+                <BiLink /> <span>Ver la(s) obra(s): {connectedManuscripts.length} {connectedManuscripts.length > 2 ? "" : ""}</span>
               </button>
             </div> :
 
