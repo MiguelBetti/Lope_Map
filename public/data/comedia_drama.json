@@ -6,55 +6,55 @@
          "@id": "719819",
          "uuid": "https://www.geonames.org/719819",
          "type":"Feature",
-         "properties":{
+         "properties": {
             "title":"Hungría",
             "occurrences": [
                   {"value": 7}
             ]
-      },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
                20,
                47
             ]
-      },
+         },
          "descriptions": "",
          "names": [
             {
-                  "toponym": "Hungría",
-                    "lang": "es"
+               "toponym": "Hungría",
+               "lang": "es"
             }
          ],
-         "links":[
+         "links": [
             {
                "type": "closeMatch",
-               "identifier":"https://www.geonames.org/719819"
+               "identifier": "https://www.geonames.org/719819"
             },
             {
                "type": "closeMatch",
                "identifier": "http://www.geonames.org/350564/"
             }
          ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "title": "La sortija del olvido",
+         "relations": [
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "La sortija del olvido",
                     "subgenre": "Palatino",
                     "genre": "Comedia",
                     "date": "1619"
-                },
-                                {
+             },
+             {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "title": "Laura perseguida",
                     "subgenre": "Palatino",
                     "genre": "Drama",
                     "date": "1614"
-                }
+             }
          ]
-   },
+      },
       {
-         "@id": "719819",
+         "@id": "390903",
          "uuid": "https://www.geonames.org/390903",
          "type":"Feature",
          "properties":{
@@ -125,7 +125,7 @@
                 }
             ]
         },
-      {
+        {
          "@id": "6255146",
          "uuid": "https://www.geonames.org/6255146",
          "type":"Feature",
@@ -3998,5 +3998,5 @@
                 }
             ]
         }
-    ]
+      ]
 }
