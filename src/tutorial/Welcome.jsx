@@ -23,10 +23,10 @@ const Welcome = props => {
         <h1>¡Bienvenidas y bienvenidos!</h1>
 
         <p className="p6o-welcome-intro">
-          Este mapa le permite explorar los lugares mencionados en algunas obras teatrales de Lope de Vega.
+          Este mapa permite explorar los topónimos mencionados en algunas obras teatrales de Lope de Vega (Madrid, 1562-1635).
         </p>
         <p>
-          Se basa en los proyectos <a href="https://desenrollandoelcordel.unige.ch" target="_blank">Desenrollando el cordel</a>, dirigido por la profesora Constance Carta y en el <a href="https://github.com/sib-swiss/dh-dataviz">código</a> desarrollado por Élisa Nury en el marco del proyecto <a href="https://mark16.sib.swiss/" target="_blank">FNS MARK16 VRE</a>. El código está disponible en <a href="https://github.com/DesenrollandoElCordel/peripleo-pliegos">GitHub</a> (licencia GPLv3).
+          Se basa en el <a href="https://github.com/sib-swiss/dh-dataviz">código</a> desarrollado por Élisa Nury en el marco del proyecto <a href="https://mark16.sib.swiss/" target="_blank">FNS MARK16 VRE</a>, y en las modificaciones efectuadas por Elina Leblanc para el proyecto <a href="https://desenrollandoelcordel.unige.ch" target="_blank">Desenrollando el cordel</a>, dirigido por la profesora Constance Carta. El código está disponible en <a href="https://github.com/MiguelBetti/Lope_peripleo">GitHub</a> (licencia GPLv3).
         </p>
         
         <div className="p6o-welcome-buttons">

@@ -16,11 +16,11 @@ const tour = [{
   disableBeacon: true
 },{
   target: '.p6o-facets-carousel',
-  content: 'Haciendo clic en las flechas se pueden recorrer las categorías de filtros disponibles.',
+  content: 'Haciendo clic en las flechas se pueden recorrer las distintas categorías de filtros disponibles.',
   disableBeacon: true
 },{
   target: '.p6o-facets ul',
-  content: 'Puede filtrar los datos del mapa haciendo clic en las etiquetas.',
+  content: 'Puede filtrar los datos del mapa haciendo click en las etiquetas.',
   disableBeacon: true
 },{
   target: 'body',
