@@ -20,7 +20,7 @@ const tour = [{
   disableBeacon: true
 },{
   target: '.p6o-facets ul',
-  content: <div>Puede filtrar los datos del mapa haciendo clic en las etiquetas.</p></div>,
+  content: 'Puede filtrar los datos del mapa haciendo clic en las etiquetas.',
   disableBeacon: true
 },{
   target: 'body',
