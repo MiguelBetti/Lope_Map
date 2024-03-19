@@ -8,12 +8,6 @@ const Welcome = props => {
 
   const [ checked, setChecked ] = useState(false);
 
-  const logos = props.logos;
-
-  const listLogos = logos.map(logo =>
-    <img src={logo.path} key={logo.name} />
-  );
-
   const toggleDoNotShow = () => {
     if (checked)
       localStorage.removeItem(BEEN_HERE_TOKEN);
@@ -26,10 +20,13 @@ const Welcome = props => {
   return ReactDOM.createPortal(
     <div className="p6o-welcome-wrapper">
       <div className="p6o-welcome">
-        <h1>¡Bienvenidos!</h1>
+        <h1>¡Bienvenidas y bienvenidos!</h1>
 
         <p className="p6o-welcome-intro">
-        Este mapa permite explorar los topónimos mencionados en una selección de obras dramáticas compuestas por Lope de Vega.
+          Este mapa le permite explorar los lugares mencionados en algunas obras teatrales de Lope de Vega.
+        </p>
+        <p>
+          Se basa en los proyectos <a href="https://desenrollandoelcordel.unige.ch" target="_blank">Desenrollando el cordel</a>, dirigido por la profesora Constance Carta y en el <a href="https://github.com/sib-swiss/dh-dataviz">código</a> desarrollado por Élisa Nury en el marco del proyecto <a href="https://mark16.sib.swiss/" target="_blank">FNS MARK16 VRE</a>. El código está disponible en <a href="https://github.com/DesenrollandoElCordel/peripleo-pliegos">GitHub</a> (licencia GPLv3).
         </p>
         
         <div className="p6o-welcome-buttons">
@@ -53,12 +50,8 @@ const Welcome = props => {
           <button 
             className="p6o-take-tour"
             onClick={props.onTakeTour}>
-            Sí, quiero hacer la visita
+            Sí, haz la visita.
           </button>
-        </div>
-
-        <div className="p6o-welcome-logos">
-          {listLogos}
         </div>
       </div>
     </div>,
