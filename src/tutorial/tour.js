@@ -25,7 +25,7 @@ const tour = [{
 },{
   target: 'body',
   placement: 'center',
-  title: 'That\'s it!',
+  title: '¡Listo!',
   content: 
     <span>
       ¡Gracias por su tiempo!
