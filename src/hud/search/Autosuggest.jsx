@@ -92,8 +92,8 @@ const Autosuggest = props => {
       <div ref={el} className="p6o-hud-searchinput">
         <input 
           tabIndex={2}
-          placeholder="Search within dataset"
-          aria-label="Search within dataset"
+          placeholder="Buscar un lugar"
+          aria-label="Buscar un lugar"
           value={query} 
           onKeyDown={onKeyDown}
           onChange={onChange} />

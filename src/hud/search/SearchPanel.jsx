@@ -92,10 +92,10 @@ const SearchPanel = props => {
               aria-live="polite">
               {search.total > 0 ?
                 <>
-                  {search.total.toLocaleString('en')} Result{search.total !== 1 && 's'}
+                  {search.total.toLocaleString('en')} Resultado{search.total !== 1 && 's'}
                 </> :
                 <>
-                  No results found for this search
+                  No se han encontrado resultados
                 </>
               }
             </h2>
