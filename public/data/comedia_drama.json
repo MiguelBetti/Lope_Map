@@ -19,7 +19,9 @@
                47
             ]
          },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "7 ocurrencia(s)"}
+            ],
          "names": [
             {
                "toponym": "Hungría",
@@ -71,7 +73,9 @@
                39.074208
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "5 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Grecia",
@@ -143,7 +147,9 @@
                7.1881
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "África",
@@ -194,7 +200,9 @@
                46.5
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "5 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Transilvania",
@@ -245,7 +253,9 @@
                51.5
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Alemania",
@@ -296,7 +306,9 @@
                43.539561
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Dalmacia",
@@ -347,7 +359,9 @@
                56
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Dinamarca",
@@ -391,7 +405,9 @@
                41.8925745251
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "75 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Roma",
@@ -470,7 +486,9 @@
                41.65518
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Valladolid",
@@ -514,7 +532,9 @@
                51
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Flandes",
@@ -565,7 +585,9 @@
                40.463667
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "47 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "España",
@@ -658,7 +680,9 @@
                45.46427
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Milán",
@@ -702,7 +726,9 @@
                35.66667
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Orán",
@@ -746,7 +772,9 @@
                42.83333
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "24 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Italia",
@@ -825,7 +853,9 @@
                40.85631
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "33 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Nápoles",
@@ -890,7 +920,9 @@
                41.66667
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "52 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Castilla",
@@ -962,7 +994,9 @@
                40.4165
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "20 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Madrid",
@@ -1027,7 +1061,9 @@
                39.46975
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Valencia",
@@ -1078,7 +1114,9 @@
                38.84078
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Denia",
@@ -1122,7 +1160,9 @@
                41.38879
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Barcelona",
@@ -1180,7 +1220,9 @@
                39.954496182
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "10 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Troya",
@@ -1259,7 +1301,9 @@
                32.33022
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Bermuda",
@@ -1303,7 +1347,9 @@
                41.50633
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "3 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Zamora",
@@ -1354,7 +1400,9 @@
                43.77925
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Florencia",
@@ -1398,7 +1446,9 @@
                37.18817
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "7 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Granada",
@@ -1463,7 +1513,9 @@
                35.91667
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Malta",
@@ -1514,7 +1566,9 @@
                23.634501
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Indias",
@@ -1579,7 +1633,9 @@
                46.20222
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Ginebra",
@@ -1623,7 +1679,9 @@
                36.73225
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Argel",
@@ -1667,7 +1725,9 @@
                39.8581
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "34 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Toledo",
@@ -1732,7 +1792,9 @@
                37.38283
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "10 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Sevilla",
@@ -1790,7 +1852,9 @@
                23.13302
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "7 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "La Habana",
@@ -1834,7 +1898,9 @@
                40.29414
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Getafe",
@@ -1878,7 +1944,9 @@
                40.12213
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "31 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Illescas",
@@ -1929,7 +1997,9 @@
                48.69096
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Europa",
@@ -1973,7 +2043,9 @@
                37.6
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Andalucía",
@@ -2024,7 +2096,9 @@
                38.71667
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Lisboa",
@@ -2068,7 +2142,9 @@
                8.9936
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "20 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Panamá",
@@ -2112,7 +2188,9 @@
                40.94808
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Segovia",
@@ -2156,7 +2234,9 @@
                41.0063714116
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Constantinopla",
@@ -2200,7 +2280,9 @@
                35
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Chipre",
@@ -2251,7 +2333,9 @@
                45.44045
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Venecia",
@@ -2295,7 +2379,9 @@
                45.44045
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Persia",
@@ -2346,7 +2432,9 @@
                40.25
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Armenia",
@@ -2390,7 +2478,9 @@
                19.03333
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Tepecas",
@@ -2434,7 +2524,9 @@
                35.15585
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Creta",
@@ -2478,7 +2570,9 @@
                39
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Turquía",
@@ -2522,7 +2616,9 @@
                41.5
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "38 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Aragón",
@@ -2580,7 +2676,9 @@
                39.6945
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "10 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "Portugal",
@@ -2638,7 +2736,9 @@
                42.57357
             ]
       },
-         "descriptions": "",
+         "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
          "names": [
             {
                   "toponym": "León",
@@ -2682,7 +2782,9 @@
                     33.34058
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Mesopotamia",
@@ -2726,7 +2828,9 @@
                     33.511612
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Damasco",
@@ -2770,7 +2874,9 @@
                     43.29695
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Marsella",
@@ -2814,7 +2920,9 @@
                     39.5464840166
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Epiro",
@@ -2858,7 +2966,9 @@
                     37.075742175
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Lacedemonia",
@@ -2902,7 +3012,9 @@
                     29.84064
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "3 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Asia",
@@ -2946,7 +3058,9 @@
                     26.3351
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Libia",
@@ -2990,7 +3104,9 @@
                     37.9727951076
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Atenas",
@@ -3041,7 +3157,9 @@
                     34.802075
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Siria",
@@ -3085,7 +3203,9 @@
                     9.0
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Etiopía",
@@ -3129,7 +3249,9 @@
                     14.9082523955
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Arabia",
@@ -3173,7 +3295,9 @@
                     42.88052
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Santiago de Compostela",
@@ -3217,7 +3341,9 @@
                     51.78826
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "16 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Cleves",
@@ -3261,7 +3387,9 @@
                     56.0
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Escocia",
@@ -3305,7 +3433,9 @@
                     28.5
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Marruecos",
@@ -3349,7 +3479,9 @@
                     40.3456
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "6 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Teruel",
@@ -3393,7 +3525,9 @@
                     41.65606
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "6 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Zaragoza",
@@ -3437,7 +3571,9 @@
                     42.75
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "4 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Navarra",
@@ -3488,7 +3624,9 @@
                     36.14474
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Gibraltar",
@@ -3532,7 +3670,9 @@
                     39.6078
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Mallorca",
@@ -3576,7 +3716,9 @@
                     46.0
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Francia",
@@ -3620,7 +3762,9 @@
                     42.56898
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Jaca",
@@ -3664,7 +3808,9 @@
                     31.776679
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Jerusalén",
@@ -3708,7 +3854,9 @@
                     38.88941
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Almagro",
@@ -3752,7 +3900,9 @@
                     39.0
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "10 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Ciudad Real",
@@ -3796,7 +3946,9 @@
                     38.26232
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "36 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Fuente Obejuna",
@@ -3840,7 +3992,9 @@
                     39.16667
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Extremadura",
@@ -3884,7 +4038,9 @@
                     37.89155
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "3 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Córdoba",
@@ -3928,7 +4084,9 @@
                     43.5
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Gascuña",
@@ -3972,7 +4130,9 @@
                     38.7184715253
                 ]
             },
-            "descriptions": "",
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
             "names": [
                 {
                     "toponym": "Hircania",
