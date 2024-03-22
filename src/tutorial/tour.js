@@ -16,7 +16,7 @@ const tour = [{
   disableBeacon: true
 },{
   target: '.p6o-facets-carousel',
-  content: 'Haciendo clic en las flechas se pueden recorrer las distintas categorías de filtros disponibles.',
+  content: 'Haciendo click en las flechas se pueden recorrer las distintas categorías de filtros disponibles.',
   disableBeacon: true
 },{
   target: '.p6o-facets ul',
