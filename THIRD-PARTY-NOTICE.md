@@ -1,8 +1,8 @@
-The SNSF MARK16 DATAVIZ uses third party material from the projects listed below.
+"El mundo de Lope de Vega" uses third party material from the projects listed below.
 
-The original copyright notice and the license under which MARK16 received such third party material are set forth below. MARK16 reserves all other rights not expressly granted, whether by implication, estoppel or otherwise. In the event that we accidentally failed to list a required notice, please bring it to our attention and email us: claire.clivaz@sib.swiss
+The original copyright notice and the license under which "El mundo de Lope de Vega" received such third party material are set forth below. "El mundo de Lope de Vega" reserves all other rights not expressly granted, whether by implication, estoppel or otherwise. In the event that we accidentally failed to list a required notice, please bring it to our attention and email us: miguel.betti@unige.ch
 
-© 2022 SNSF MARK16, DH+, SIB Swiss Institute of Bioinformatics, Lausanne (CH)
+© 2024 "El mundo de Lope de Vega", Université de Genève
 
 
 THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
@@ -13,6 +13,8 @@ Do Not Translate or Localize
 3. REACT  (https://github.com/facebook/react/blob/main/LICENSE))
 4. MAPLIBRE (https://github.com/maplibre/maplibre-gl-js/blob/main/LICENSE.txt)
 5. QUICKSAND (https://fonts.google.com/specimen/Quicksand/about#licnse)
+6. MARK16 (https://mark16.sib.swiss/about)
+7. Desenrrollando el cordel (https://desenrollandoelcordel.unige.ch/)
 
 PERIPLEO NOTICES, INFORMATION, AND LICENSE BEGIN HERE
 ******************************************************
