@@ -10,7 +10,7 @@ Peripleo is a prototype application for the discovery and spatial visualisation 
 
 ## LinkedPlaces Data
 
-Our [LP-Format](https://github.com/LinkedPasts/linked-places-format) data can be found [here](https://github.com/MiguelBetti/Lope_peripleo/tree/main/public/data).
+Our [LP-Format](https://github.com/LinkedPasts/linked-places-format) data can be found [here](https://github.com/MiguelBetti/Lope_peripleo/tree/main/public/data). To extract the place names in our corpus we have developed our own [NER model](https://github.com/MiguelBetti/Lope_ner).
 
 ## Code Reuse
 
