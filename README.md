@@ -10,13 +10,11 @@ Peripleo is a prototype application for the discovery and spatial visualisation 
 
 ## LinkedPlaces Data
 
-Our [LP-Format](https://github.com/LinkedPasts/linked-places-format) data can be found here: 
+Our [LP-Format](https://github.com/LinkedPasts/linked-places-format) data can be found [here](https://github.com/MiguelBetti/Lope_peripleo/tree/main/public/data).
 
 ## Code Reuse
 
-Our javascript implementation of Peripleo can be found here:
-
-It is a slightly different version from the original Peripleo, with facets ordered alphabetically, and places displaying a list of related manuscripts instead of a list of links.
+Our javascript implementation of Peripleo can be found [here](https://github.com/MiguelBetti/Lope_peripleo/tree/main/src). It is a slightly different version from the original Peripleo.
 
 ## Installation
 
