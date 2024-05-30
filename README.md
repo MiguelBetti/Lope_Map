@@ -1,5 +1,5 @@
 [<img title="Pelagios Network" src="./logos/pelagios.svg" height="60" align="left">](https://pelagios.org/)
-# Peripleo | El mundo de Lope de Vega
+# Peripleo | El mundo de Lope de Vega 🌍
 
 This map is part of the project El mundo de Lope de Vega (2024-2025). It shows the names of the places mentioned in different plays that make up the corpus of the _Comedia Nueva_. With this visualisation, users can search places and filter them by genre, subgenre and title of the plays.
 
