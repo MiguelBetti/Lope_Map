@@ -7,7 +7,7 @@
       "name": "Comedias y dramas",
       "format": "LINKED_PLACES",
       "type_object": ["Manuscript", "Manuscripts"],
-      "src": "./data/comedia_drama.json",
+      "src": "./data/data.json",
       "attribution": "El mundo de Lope de Vega"
     }
   ],
