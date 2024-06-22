@@ -486,7 +486,7 @@
             "title": "Italia",
             "occurrences": [
                 {
-                    "value": 667
+                    "value": 671
                 }
             ]
         },
@@ -499,7 +499,7 @@
         },
         "descriptions": [
             {
-                "value": "667 ocurrencia(s)"
+                "value": "671 ocurrencia(s)"
             }
         ],
         "names": [
@@ -2841,6 +2841,30 @@
                 "genre": "Drama",
                 "date": "1635",
                 "occurrences": "1"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La buena guarda",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La cortesía de España",
+                "subgenre": "Novelesco",
+                "genre": "Comedia",
+                "date": "1619",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "No son todos ruiseñores",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1635",
+                "occurrences": "2"
             }
         ]
     },
@@ -3044,473 +3068,6 @@
                 "genre": "Drama",
                 "date": "1621",
                 "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La viuda, casada y doncella",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2523118",
-        "uuid": "https://www.geonames.org/2523118",
-        "type": "Feature",
-        "properties": {
-            "title": "Sicilia",
-            "occurrences": [
-                {
-                    "value": 197
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.266666666667,
-                37.566666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "197 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Sicilia",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2523118"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Acertar errando",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cerco de Viena y socorro por Carlos Quinto",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La fianza satisfecha",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Siglo XVIII",
-                "occurrences": "6"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las almenas de toro",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amante agradecido",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Amar como se ha de amar",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Amor con vista",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El anzuelo de Fenisa",
-                "subgenre": "Picaresco",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "15"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El blasón de los Chaves de Villalba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El blasón de los Chaves de Villalba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La burgalesa de Lerma",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las burlas de amor",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El caballero del Sacramento",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "22"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La carbonera",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1635",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los comendadores de Córdoba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La contienda de García de Paredas y el capitán Juan de Urbina",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El despertar a quien duerme",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La devoción del Rosario",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "6"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La difunta pleitada",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1663",
-                "occurrences": "11"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La discordia en los casados",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El ejemplo de casadas y prueba de la paciencia",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1615",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La escolástica celosa",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1604",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los españoles en Flandes",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La fábula de Perseo",
-                "subgenre": "Mitológico",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El favor agradecido",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "18"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La firmeza en la desdicha",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1619",
-                "occurrences": "16"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las flores de don Juan y rico y pobre trocados",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El gallardo catalán",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El gran duque de Moscovia y emperador perseguido",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Guardar y guardarse",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1641",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ingratitud vengada",
-                "subgenre": "Picaresco",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La inocente Laura",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Don Juan de Castro, primera parte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La llave de la honra",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1653",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los locos por el cielo",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Don Lope de Cardona",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "28"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La mayor virtud de un rey",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1637",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los muertos vivos",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las mujeres sin hombres",
-                "subgenre": "Mitológico",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Lo que pasa en una tarde",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El perseguido",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1604",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El piadoso aragonés",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1635",
-                "occurrences": "7"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El poder en el discreto",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "8"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los Ponces de Barcelona",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El premio de la hermosura",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El primer rey de Castilla",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La prisión sin culpa",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Santa Liga",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El serafín de Hungría",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El tirano castigado",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El villano en su rincón",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Virtud, pobreza y mujer",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1625",
-                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -20274,7 +19831,7 @@
             "title": "Alemania",
             "occurrences": [
                 {
-                    "value": 181
+                    "value": 185
                 }
             ]
         },
@@ -20906,6 +20463,38 @@
                 "genre": "Drama",
                 "date": "1635",
                 "occurrences": "2"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La traición bien acertada",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1604",
+                "occurrences": "1"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Lo fingido verdadero",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El nuevo mundo descubierto por Cristóbal Colón",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1614",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El villano en su rincón",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
             }
         ]
     },
@@ -21124,713 +20713,6 @@
                 "subgenre": "Historial religioso",
                 "genre": "Drama",
                 "date": "1635",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6255147",
-        "uuid": "https://www.geonames.org/6255147",
-        "type": "Feature",
-        "properties": {
-            "title": "Indias",
-            "occurrences": [
-                {
-                    "value": 196
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                87.33111111111111,
-                43.681111111111115
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "196 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Indias",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6255147"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El Antecristo",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los milagros del desprecio",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1633",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las mocedades de Bernardo del Carpio",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1634",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El toledano vengado y celoso vengado",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El acero de Madrid",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El alcaide de Madrid",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amante agradecido",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "10"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los amantes sin amor",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amigo hasta la muerte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Amar sin saber a quien",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1635",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Amar, servir y esperar",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1635",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Angélica en el Catay",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El anzuelo de Fenisa",
-                "subgenre": "Picaresco",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El arauco domado",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1625",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El arenal de Sevilla",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "9"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El asalto de Mastrique, por el príncipe de Parma",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El ausente en el lugar",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Barlaán y Josafat, autógrafo",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La bella aurora",
-                "subgenre": "Mitológico",
-                "genre": "Drama",
-                "date": "1635",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El blasón de los Chaves de Villalba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El Brasil restituido",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El caballero de Illescas",
-                "subgenre": "Picaresco",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El caballero del milagro",
-                "subgenre": "Picaresco",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El caballero de Olmedo",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1641",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cerco de Santa Fe e ilustra hazaña de Garcilaso de la Vega",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1604",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La contienda de García de Paredas y el capitán Juan de Urbina",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La corona merecida",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "De corsario a corsario",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1624",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La cortesía de España",
-                "subgenre": "Novelesco",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "De cuando acá  nos vino",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1633",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cuerdo loco",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La dama boba",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El desprecio agradecido",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1647",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La discreta enamorada",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1653",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Ello dirá",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1616",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los embustes de Celauro",
-                "subgenre": "Villano",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El enemigo engañado",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1640",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La esclava de su galán",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1647",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El favor agradecido",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Lo fingido verdadero",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La firmeza en la desdicha",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La fuerza lastimosa",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El gallardo catalán",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los guanches de Tenerife y conquista de Canaria",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El guante de doña Blanca",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1637",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El halcón de Federico",
-                "subgenre": "Novelesco",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los hidalgos del aldea",
-                "subgenre": "Villano",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ingratitud vengada",
-                "subgenre": "Picaresco",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El maestro de danzar",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1653",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La malcasada",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El mejor alcalde el rey",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1635",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El mejor maestro, el tiempo",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1615",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El mesón de la corte",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La moza de Cántaro",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1646",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La niña de Plata",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La noche de san Juan",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1635",
-                "occurrences": "7"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La noche toledana",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1612",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "No son todos ruiseñores",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1635",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El nuevo mundo descubierto por Cristóbal Colón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los palacios de Galiana",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1638",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los peligros de la ausencia",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1641",
-                "occurrences": "6"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El poder en el discreto",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los Porceles de Murcia",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La portuguesa y dicha del forastero",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1653",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El postrer godo de España",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El premio del bien hablar",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1635",
-                "occurrences": "9"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El primer rey de Castilla",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El príncipe despeinado",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El príncipe perfecto, primera parte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El príncipe perfecto, segunda parte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1623",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La prisión sin culpa",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La prueba de los amigos",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los ramilletes de Madrid",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El ruiseñor de Sevilla",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "13"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Santa Liga",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El sembrar en buena tierra",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "16"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Servir a señor discreto",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El testigo contra sí",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1615",
-                "occurrences": "7"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El valiente Céspedes",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1625",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La vida de san Pedro Nolasco",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1635",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La villana de Getafe",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "7"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La viuda valenciana",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
                 "occurrences": "1"
             }
         ]
@@ -28829,7 +27711,7 @@
             "title": "Albania",
             "occurrences": [
                 {
-                    "value": 162
+                    "value": 164
                 }
             ]
         },
@@ -29173,6 +28055,22 @@
                 "genre": "Comedia",
                 "date": "1621",
                 "occurrences": "2"
+            },
+                 {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El nuevo mundo descubierto por Cristóbal Colón",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1614",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Obras son amores",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1618",
+                "occurrences": "1"
             }
         ]
     },
@@ -29614,7 +28512,7 @@
             "title": "Perpiñán",
             "occurrences": [
                 {
-                    "value": 17
+                    "value": 18
                 }
             ]
         },
@@ -29627,7 +28525,7 @@
         },
         "descriptions": [
             {
-                "value": "17 ocurrencia(s)"
+                "value": "18 ocurrencia(s)"
             }
         ],
         "names": [
@@ -29701,6 +28599,14 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El mejor mozo de España",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1625",
                 "occurrences": "1"
             }
         ]
@@ -37384,7 +36290,7 @@
             "title": "Génova",
             "occurrences": [
                 {
-                    "value": 109
+                    "value": 110
                 }
             ]
         },
@@ -37616,6 +36522,14 @@
                 "genre": "Drama",
                 "date": "1621",
                 "occurrences": "2"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Lo que hay que fiar del mundo",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1619",
+                "occurrences": "1"
             }
         ]
     },
@@ -55018,7 +53932,7 @@
             "title": "Inglaterra",
             "occurrences": [
                 {
-                    "value": 44
+                    "value": 192
                 }
             ]
         },
@@ -55031,7 +53945,7 @@
         },
         "descriptions": [
             {
-                "value": "44 ocurrencia(s)"
+                "value": "192 ocurrencia(s)"
             }
         ],
         "names": [
@@ -55202,6 +54116,310 @@
                 "genre": "Drama",
                 "date": "1635",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El animal de Hungría",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El arenal de Sevilla",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1618",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El Argel fingido y renegado de amor",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El bautismo del príncipe de Marruecos",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1618",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El blasón de los Chaves de Villalba",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1618",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El blasón de los Chaves de Villalba",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1618",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La campana de Aragón",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1623",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Carlos V en Francia",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1624",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Lo cierto por lo dudoso",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1625",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La corona merecida",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "Sin fecha",
+                "occurrences": "5"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El ejemplo de casadas y prueba de la paciencia",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1615",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El gallardo catalán",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1609",
+                "occurrences": "16"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Guardar y guardarse",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1641",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La hermosa Alfreda",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El hombre de bien",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1615",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La imperial de Otón",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Don Juan de Castro, primera parte",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1624",
+                "occurrences": "11"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Don Juan de Castro, segunda parte",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1624",
+                "occurrences": "16"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La locura por la honra",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1618",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Del mal lo menos",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1617",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El marqués de las Navas",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1630",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los mártires de Madrid",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "1634",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Más valéis vos, Antona, que la corte toda",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "Sin fecha",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El mayorazgo dudoso",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1609",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Mirad a quien alabáis",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "",
+                "subgenre": "",
+                "genre": "",
+                "date": "",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Nueva victoria del marqués de Santa Cruz",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1647",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El nuevo mundo descubierto por Cristóbal Colón",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1614",
+                "occurrences": "4"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Las paces de los reyes y judía de Toledo",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los pleitos de Inglaterra",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1638",
+                "occurrences": "23"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El poder vencido y amor premiado",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1618",
+                "occurrences": "14"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El primer Fajardo",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los Ramírez de Arellano",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1641",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La resistencia honrada y condesa Matilde",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1609",
+                "occurrences": "6"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Roma abrasada",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1625",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El soldado amante",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los torneos de Aragón",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1614",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los tres diamantes",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1609",
+                "occurrences": "11"
             }
         ]
     },
@@ -55840,8 +55058,8 @@
         ]
     },
     {
-        "@id": "258763",
-        "uuid": "https://www.geonames.org/258763",
+        "@id": "258764",
+        "uuid": "https://www.geonames.org/258764",
         "type": "Feature",
         "properties": {
             "title": "Candia",
@@ -55876,7 +55094,7 @@
             },
             {
                 "type": "closeMatch",
-                "identifier": "http://www.geonames.org/258763"
+                "identifier": "http://www.geonames.org/258764"
             }
         ],
         "relations": [
@@ -56633,8 +55851,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                23.859722222222,
-                49.398888888889
+                11.33875,
+                44.49381
             ]
         },
         "descriptions": [
@@ -63619,137 +62837,6 @@
         ]
     },
     {
-        "@id": "2921044",
-        "uuid": "https://www.geonames.org/2921044",
-        "type": "Feature",
-        "properties": {
-            "title": "de",
-            "occurrences": [
-                {
-                    "value": 12
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                10.0,
-                51.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "12 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "de",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2921044"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las almenas de toro",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amigo hasta la muerte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cardenal de Belén y vida de san Jerónimo",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1620",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El grao de Valencia",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El hamete de Toledo",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Del mal lo menos",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los mártires de Madrid",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1634",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La mocedad de Roldán",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La niñez de san Isidro",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1622",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Pedro Carbonero",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El testigo contra sí",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1615",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "6362642",
         "uuid": "https://www.geonames.org/6362642",
         "type": "Feature",
@@ -64536,57 +63623,6 @@
                 "genre": "Comedia",
                 "date": "1618",
                 "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "2523119",
-        "uuid": "https://www.geonames.org/2523119",
-        "type": "Feature",
-        "properties": {
-            "title": "Chichilía",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.015377777778,
-                37.599958333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Chichilía",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2523119"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amante agradecido",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
             }
         ]
     },
@@ -66982,7 +66018,7 @@
             "title": "Sicilia",
             "occurrences": [
                 {
-                    "value": 197
+                    "value": 200
                 }
             ]
         },
@@ -66995,7 +66031,7 @@
         },
         "descriptions": [
             {
-                "value": "197 ocurrencia(s)"
+                "value": "200 ocurrencia(s)"
             }
         ],
         "names": [
@@ -67053,7 +66089,7 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1618",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -67141,6 +66177,14 @@
                 "subgenre": "Historial profano",
                 "genre": "Drama",
                 "date": "Sin fecha",
+                "occurrences": "1"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Las cuentas del gran capitán",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1638",
                 "occurrences": "1"
             },
             {
@@ -67399,6 +66443,14 @@
                 "date": "1621",
                 "occurrences": "3"
             },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Santo Ángelo",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "Sin fecha",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "El serafín de Hungría",
@@ -67438,7 +66490,8 @@
                 "genre": "Comedia",
                 "date": "1617",
                 "occurrences": "1"
-            }
+            },
+
         ]
     },
     {
@@ -70648,7 +69701,7 @@
             "title": "La Rochela",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 8
                 }
             ]
         },
@@ -70661,7 +69714,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "8 ocurrencia(s)"
             }
         ],
         "names": [
@@ -70695,6 +69748,54 @@
                 "subgenre": "Palatino",
                 "genre": "Comedia",
                 "date": "1609",
+                "occurrences": "1"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "De cuando acá  nos vino",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1633",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La fe rompida",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1614",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El marqués de Mantua",
+                "subgenre": "Caballeresco",
+                "genre": "Drama",
+                "date": "1619",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los palacios de Galiana",
+                "subgenre": "Caballeresco",
+                "genre": "Drama",
+                "date": "1638",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los tres diamantes",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1609",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El villano en su rincón",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1617",
                 "occurrences": "1"
             }
         ]
@@ -72008,7 +71109,7 @@
             "title": "Apeninos",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 3
                 }
             ]
         },
@@ -72047,6 +71148,22 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "Sin fecha",
+                "occurrences": "1"
+            },
+               {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los españoles en Flandes",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1620",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La viuda valenciana",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1620",
                 "occurrences": "1"
             }
         ]
@@ -72624,7 +71741,7 @@
             "title": "Monpelier",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -72637,7 +71754,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -72663,6 +71780,14 @@
                 "subgenre": "Caballeresco",
                 "genre": "Drama",
                 "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La resistencia honrada y condesa Matilde",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1609",
                 "occurrences": "1"
             }
         ]
@@ -73229,353 +72354,6 @@
                 "genre": "Drama",
                 "date": "1621",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6269131",
-        "uuid": "https://www.geonames.org/6269131",
-        "type": "Feature",
-        "properties": {
-            "title": "Ingalaterra",
-            "occurrences": [
-                {
-                    "value": 148
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -1.0,
-                53.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "148 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Ingalaterra",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6269131"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El animal de Hungría",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El arenal de Sevilla",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El Argel fingido y renegado de amor",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El bautismo del príncipe de Marruecos",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El blasón de los Chaves de Villalba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El blasón de los Chaves de Villalba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La campana de Aragón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1623",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Carlos V en Francia",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Lo cierto por lo dudoso",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1625",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La corona merecida",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El ejemplo de casadas y prueba de la paciencia",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1615",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El gallardo catalán",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "16"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Guardar y guardarse",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1641",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La hermosa Alfreda",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El hombre de bien",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1615",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La imperial de Otón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Don Juan de Castro, primera parte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "11"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Don Juan de Castro, segunda parte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "16"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La locura por la honra",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Del mal lo menos",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El marqués de las Navas",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1630",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los mártires de Madrid",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1634",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Más valéis vos, Antona, que la corte toda",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El mayorazgo dudoso",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Mirad a quien alabáis",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "",
-                "subgenre": "",
-                "genre": "",
-                "date": "",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Nueva victoria del marqués de Santa Cruz",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1647",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El nuevo mundo descubierto por Cristóbal Colón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las paces de los reyes y judía de Toledo",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los pleitos de Inglaterra",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1638",
-                "occurrences": "23"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El poder vencido y amor premiado",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "14"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El primer Fajardo",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los Ramírez de Arellano",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1641",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La resistencia honrada y condesa Matilde",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1609",
-                "occurrences": "6"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Roma abrasada",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1625",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El soldado amante",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los torneos de Aragón",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los tres diamantes",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "11"
             }
         ]
     },
@@ -76315,7 +75093,7 @@
             "title": "Cerdeña",
             "occurrences": [
                 {
-                    "value": 32
+                    "value": 40
                 }
             ]
         },
@@ -76427,6 +75205,38 @@
                 "genre": "Comedia",
                 "date": "1614",
                 "occurrences": "9"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El caballero del Sacramento",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El despertar a quien duerme",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La devoción del Rosario",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "Sin fecha",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El ejemplo de casadas y prueba de la paciencia",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1615",
+                "occurrences": "4"
             }
         ]
     },
@@ -76483,7 +75293,7 @@
             "title": "Irlanda",
             "occurrences": [
                 {
-                    "value": 65
+                    "value": 81
                 }
             ]
         },
@@ -76603,6 +75413,14 @@
                 "genre": "Comedia",
                 "date": "1614",
                 "occurrences": "2"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El juez en su causa",
+                "subgenre": "Palatino",
+                "genre": "Drama",
+                "date": "1647",
+                "occurrences": "16"
             }
         ]
     },
@@ -76761,57 +75579,6 @@
                 "genre": "Comedia",
                 "date": "Sin fecha",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2792414",
-        "uuid": "https://www.geonames.org/2792414",
-        "type": "Feature",
-        "properties": {
-            "title": "Liege",
-            "occurrences": [
-                {
-                    "value": 3
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                5.570555555555556,
-                50.639722222222225
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "3 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Liege",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2792414"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El asalto de Mastrique, por el príncipe de Parma",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "3"
             }
         ]
     },
@@ -80384,57 +79151,6 @@
         ]
     },
     {
-        "@id": "3029799",
-        "uuid": "https://www.geonames.org/3029799",
-        "type": "Feature",
-        "properties": {
-            "title": "Brouges",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -0.61222,
-                44.88287
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Brouges",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3029799"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El bautismo del príncipe de Marruecos",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2270978",
         "uuid": "https://www.geonames.org/2270978",
         "type": "Feature",
@@ -81478,57 +80194,6 @@
         ]
     },
     {
-        "@id": "11351044",
-        "uuid": "https://www.geonames.org/11351044",
-        "type": "Feature",
-        "properties": {
-            "title": "Tibar",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                125.48972222,
-                -8.56944444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Tibar",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/11351044"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las bizarrías de Belisa",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1637",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "3907581",
         "uuid": "https://www.geonames.org/3907581",
         "type": "Feature",
@@ -82357,73 +81022,6 @@
                 "genre": "Drama",
                 "date": "1618",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6541859",
-        "uuid": "https://www.geonames.org/6541859",
-        "type": "Feature",
-        "properties": {
-            "title": "Mecina",
-            "occurrences": [
-                {
-                    "value": 7
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                15.554166666666667,
-                38.19361111111111
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "7 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Mecina",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6541859"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El blasón de los Chaves de Villalba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Don Lope de Cardona",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Santa Liga",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "5"
             }
         ]
     },
@@ -84525,124 +83123,6 @@
                 "genre": "Comedia",
                 "date": "1614",
                 "occurrences": "4"
-            }
-        ]
-    },
-    {
-        "@id": "3175395",
-        "uuid": "https://www.geonames.org/3175395",
-        "type": "Feature",
-        "properties": {
-            "title": "Italias",
-            "occurrences": [
-                {
-                    "value": 4
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                12.5,
-                42.5
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "4 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Italias",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3175395"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La buena guarda",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La cortesía de España",
-                "subgenre": "Novelesco",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "No son todos ruiseñores",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1635",
-                "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "3017382",
-        "uuid": "https://www.geonames.org/3017382",
-        "type": "Feature",
-        "properties": {
-            "title": "Francias",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.0,
-                47.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Francias",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3017382"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La buena guarda",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
             }
         ]
     },
@@ -86769,81 +85249,6 @@
                 "genre": "Drama",
                 "date": "1618",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2523227",
-        "uuid": "https://www.geonames.org/2523227",
-        "type": "Feature",
-        "properties": {
-            "title": "Cerdania",
-            "occurrences": [
-                {
-                    "value": 8
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                9.0,
-                40.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "8 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Cerdania",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2523227"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El caballero del Sacramento",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El despertar a quien duerme",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La devoción del Rosario",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El ejemplo de casadas y prueba de la paciencia",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1615",
-                "occurrences": "4"
             }
         ]
     },
@@ -89171,8 +87576,8 @@
         ]
     },
     {
-        "@id": "1711580",
-        "uuid": "https://www.geonames.org/1711580",
+        "@id": "12188914",
+        "uuid": "https://www.geonames.org/12188914",
         "type": "Feature",
         "properties": {
             "title": "Hipona",
@@ -89185,8 +87590,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                122.8825,
-                11.4175
+                7.73323,
+                36.86574
             ]
         },
         "descriptions": [
@@ -89469,57 +87874,6 @@
                 "genre": "Drama",
                 "date": "1624",
                 "occurrences": "3"
-            }
-        ]
-    },
-    {
-        "@id": "2990440",
-        "uuid": "https://www.geonames.org/2990440",
-        "type": "Feature",
-        "properties": {
-            "title": "Nisa",
-            "occurrences": [
-                {
-                    "value": 5
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                7.2683333333333,
-                43.701944444444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "5 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Nisa",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2990440"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Carlos V en Francia",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "5"
             }
         ]
     },
@@ -90021,7 +88375,7 @@
             "title": "Niza",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 6
                 }
             ]
         },
@@ -90034,7 +88388,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "6 ocurrencia(s)"
             }
         ],
         "names": [
@@ -90061,6 +88415,14 @@
                 "genre": "Drama",
                 "date": "1624",
                 "occurrences": "1"
+            },
+                {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Carlos V en Francia",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1624",
+                "occurrences": "5"
             }
         ]
     },
@@ -90072,7 +88434,7 @@
             "title": "Transilvania",
             "occurrences": [
                 {
-                    "value": 12
+                    "value": 13
                 }
             ]
         },
@@ -90085,7 +88447,7 @@
         },
         "descriptions": [
             {
-                "value": "12 ocurrencia(s)"
+                "value": "13 ocurrencia(s)"
             }
         ],
         "names": [
@@ -90162,6 +88524,14 @@
                 "occurrences": "2"
             },
             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La vengadora de las mujeres",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1621",
+                "occurrences": "1"
+            },
+               {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "La vengadora de las mujeres",
                 "subgenre": "Palatino",
@@ -95286,97 +93656,6 @@
         ]
     },
     {
-        "@id": "3006787",
-        "uuid": "https://www.geonames.org/3006787",
-        "type": "Feature",
-        "properties": {
-            "title": "Rochela",
-            "occurrences": [
-                {
-                    "value": 6
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -1.1513888888889,
-                46.159444444444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "6 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Rochela",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3006787"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "De cuando acá  nos vino",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1633",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La fe rompida",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El marqués de Mantua",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los palacios de Galiana",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1638",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los tres diamantes",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El villano en su rincón",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "6539726",
         "uuid": "https://www.geonames.org/6539726",
         "type": "Feature",
@@ -95624,57 +93903,6 @@
                 "subgenre": "Palatino",
                 "genre": "Comedia",
                 "date": "1618",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2523119",
-        "uuid": "https://www.geonames.org/2523119",
-        "type": "Feature",
-        "properties": {
-            "title": "Sicilias",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.015377777778,
-                37.599958333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Sicilias",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2523119"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las cuentas del gran capitán",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1638",
                 "occurrences": "1"
             }
         ]
@@ -96554,61 +94782,10 @@
         "uuid": "https://www.geonames.org/2982453",
         "type": "Feature",
         "properties": {
-            "title": "Rosellón",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.75,
-                42.5
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Rosellón",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2982453"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El despertar a quien duerme",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "2982453",
-        "uuid": "https://www.geonames.org/2982453",
-        "type": "Feature",
-        "properties": {
             "title": "Ruisellón",
             "occurrences": [
                 {
-                    "value": 9
+                    "value": 11
                 }
             ]
         },
@@ -96621,7 +94798,7 @@
         },
         "descriptions": [
             {
-                "value": "9 ocurrencia(s)"
+                "value": "11 ocurrencia(s)"
             }
         ],
         "names": [
@@ -96647,7 +94824,7 @@
                 "subgenre": "Palatino",
                 "genre": "Drama",
                 "date": "1617",
-                "occurrences": "1"
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -96664,7 +94841,7 @@
                 "genre": "Drama",
                 "date": "1612",
                 "occurrences": "2"
-            }
+            },
         ]
     },
     {
@@ -96999,7 +95176,7 @@
             "title": "Mesina",
             "occurrences": [
                 {
-                    "value": 6
+                    "value": 13
                 }
             ]
         },
@@ -97012,7 +95189,7 @@
         },
         "descriptions": [
             {
-                "value": "6 ocurrencia(s)"
+                "value": "13 ocurrencia(s)"
             }
         ],
         "names": [
@@ -97071,6 +95248,30 @@
                 "genre": "Comedia",
                 "date": "Sin fecha",
                 "occurrences": "1"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El blasón de los Chaves de Villalba",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1618",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Don Lope de Cardona",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1618",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La Santa Liga",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "5"
             }
         ]
     },
@@ -97430,57 +95631,6 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1663",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6553047",
-        "uuid": "https://www.geonames.org/6553047",
-        "type": "Feature",
-        "properties": {
-            "title": "Aquisgrán",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                6.083788,
-                50.776207
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Aquisgrán",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6553047"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Dios hace reyes",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1638",
                 "occurrences": "1"
             }
         ]
@@ -102157,7 +100307,7 @@
             "title": "Lucemburque",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 4
                 }
             ]
         },
@@ -102170,7 +100320,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -102197,57 +100347,14 @@
                 "genre": "Drama",
                 "date": "1620",
                 "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "253394",
-        "uuid": "https://www.geonames.org/253394",
-        "type": "Feature",
-        "properties": {
-            "title": "Espartas",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                22.423611111111,
-                37.081944444444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Espartas",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
             },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/253394"
-            }
-        ],
-        "relations": [
-            {
+               {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los españoles en Flandes",
+                "title": "Nueva victoria de don Gonzalo de Córdoba",
                 "subgenre": "Historial profano",
                 "genre": "Drama",
-                "date": "1620",
-                "occurrences": "1"
+                "date": "1637",
+                "occurrences": "2"
             }
         ]
     },
@@ -102393,65 +100500,6 @@
         ]
     },
     {
-        "@id": "3182982",
-        "uuid": "https://www.geonames.org/3182982",
-        "type": "Feature",
-        "properties": {
-            "title": "Apenino",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                12.581944,
-                43.281667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Apenino",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3182982"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los españoles en Flandes",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La viuda valenciana",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2787281",
         "uuid": "https://www.geonames.org/2787281",
         "type": "Feature",
@@ -102569,7 +100617,7 @@
             "title": "Lieje",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 7
                 }
             ]
         },
@@ -102582,7 +100630,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "7 ocurrencia(s)"
             }
         ],
         "names": [
@@ -102609,6 +100657,22 @@
                 "genre": "Drama",
                 "date": "1620",
                 "occurrences": "3"
+            },
+                   {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El asalto de Mastrique, por el príncipe de Parma",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1614",
+                "occurrences": "3"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Nueva victoria de don Gonzalo de Córdoba",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1637",
+                "occurrences": "1"
             }
         ]
     },
@@ -104011,7 +102075,7 @@
             "title": "Java",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -104024,7 +102088,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -104059,56 +102123,13 @@
                 "genre": "Drama",
                 "date": "1621",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6542282",
-        "uuid": "https://www.geonames.org/6542282",
-        "type": "Feature",
-        "properties": {
-            "title": "Génovas",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                8.9339833333333,
-                44.407186111111
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Génovas",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
             },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6542282"
-            }
-        ],
-        "relations": [
-            {
+                        {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Lo que hay que fiar del mundo",
-                "subgenre": "Historial profano",
+                "title": "Las pobrezas de Reinaldo",
+                "subgenre": "Caballeresco",
                 "genre": "Drama",
-                "date": "1619",
+                "date": "1617",
                 "occurrences": "1"
             }
         ]
@@ -104315,73 +102336,6 @@
         ]
     },
     {
-        "@id": "2921044",
-        "uuid": "https://www.geonames.org/2921044",
-        "type": "Feature",
-        "properties": {
-            "title": "Germania",
-            "occurrences": [
-                {
-                    "value": 3
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                11.1,
-                50.9
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "3 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Germania",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2921044"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Lo fingido verdadero",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El nuevo mundo descubierto por Cristóbal Colón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El villano en su rincón",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "No identificado",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
@@ -104431,7 +102385,7 @@
         "uuid": "https://www.geonames.org/1861060",
         "type": "Feature",
         "properties": {
-            "title": "Japones",
+            "title": "Japón",
             "occurrences": [
                 {
                     "value": 1
@@ -104452,7 +102406,7 @@
         ],
         "names": [
             {
-                "toponym": "Japones",
+                "toponym": "Japón",
                 "lang": "es"
             }
         ],
@@ -105263,57 +103217,6 @@
             {
                 "type": "closeMatch",
                 "identifier": "http://www.geonames.org/3007671"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La francesilla",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "3033123",
-        "uuid": "https://www.geonames.org/3033123",
-        "type": "Feature",
-        "properties": {
-            "title": "Bisanzón",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                6.0213888888889,
-                47.242222222222
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Bisanzón",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3033123"
             }
         ],
         "relations": [
@@ -107003,57 +104906,6 @@
         ]
     },
     {
-        "@id": "2975252",
-        "uuid": "https://www.geonames.org/2975252",
-        "type": "Feature",
-        "properties": {
-            "title": "Secuana",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.1175,
-                49.434722222222
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Secuana",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2975252"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El genovés liberal",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "No identificado",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
@@ -108050,7 +105902,7 @@
             "title": "Tíbar",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -108063,7 +105915,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -108088,6 +105940,14 @@
                 "title": "El guante de doña Blanca",
                 "subgenre": "Historial profano",
                 "genre": "Drama",
+                "date": "1637",
+                "occurrences": "1"
+            },
+                   {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Las bizarrías de Belisa",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
                 "date": "1637",
                 "occurrences": "1"
             }
@@ -109870,65 +107730,6 @@
         ]
     },
     {
-        "@id": "2945356",
-        "uuid": "https://www.geonames.org/2945356",
-        "type": "Feature",
-        "properties": {
-            "title": "Brandemburque",
-            "occurrences": [
-                {
-                    "value": 3
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                13.060333333333332,
-                52.394555555555556
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "3 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Brandemburque",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2945356"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los hidalgos del aldea",
-                "subgenre": "Villano",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Porfiando vence amor",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1637",
-                "occurrences": "2"
-            }
-        ]
-    },
-    {
         "@id": "No identificado",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
@@ -110500,7 +108301,7 @@
             "title": "Aquisgrana",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -110513,7 +108314,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -110540,56 +108341,13 @@
                 "genre": "Drama",
                 "date": "1617",
                 "occurrences": "3"
-            }
-        ]
-    },
-    {
-        "@id": "2945356",
-        "uuid": "https://www.geonames.org/2945356",
-        "type": "Feature",
-        "properties": {
-            "title": "Branderburque",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                13.060333333333332,
-                52.394555555555556
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Branderburque",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
             },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2945356"
-            }
-        ],
-        "relations": [
-            {
+                 {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La imperial de Otón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
+                "title": "Dios hace reyes",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1638",
                 "occurrences": "1"
             }
         ]
@@ -111957,57 +109715,6 @@
                 "genre": "Drama",
                 "date": "1618",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2963597",
-        "uuid": "https://www.geonames.org/2963597",
-        "type": "Feature",
-        "properties": {
-            "title": "Ibernia",
-            "occurrences": [
-                {
-                    "value": 16
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -6.25,
-                53.333333333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "16 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Ibernia",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2963597"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El juez en su causa",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1647",
-                "occurrences": "16"
             }
         ]
     },
@@ -114620,513 +112327,6 @@
         ]
     },
     {
-        "@id": "6545078",
-        "uuid": "https://www.geonames.org/6545078",
-        "type": "Feature",
-        "properties": {
-            "title": "París",
-            "occurrences": [
-                {
-                    "value": 340
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.352222222222222,
-                48.85666666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "340 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "París",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6545078"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las dos bandoleras y fundación de la Santa Hermandad de Toledo",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1630",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amante agradecido",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La amistad y obligación",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1630",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El amor desatinado",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Angélica en el Catay",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "10"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La batalla del honor",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1615",
-                "occurrences": "6"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las bizarrías de Belisa",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1637",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La boda entre dos maridos",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "16"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El capellán de la Virgen",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1623",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Carlos V en Francia",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "13"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El casamiento en la muerte",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1604",
-                "occurrences": "9"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El castigo del discreto",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los cautivos de Argel",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1647",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los celos de Rodamonte",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1638",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La cortesía de España",
-                "subgenre": "Novelesco",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El desconfiado",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La estafanía desdichada",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1619",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El favor agradecido",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Filisarda",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La francesilla",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "11"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El genovés liberal",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "10"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los hidalgos del aldea",
-                "subgenre": "Villano",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La imperial de Otón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La inocente sangre",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El leal criado",
-                "subgenre": "Novelesco",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "11"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La limpieza manchada",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La llave de la honra",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1653",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los locos de Valencia",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1620",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La locura por la honra",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1618",
-                "occurrences": "19"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Del mal lo menos",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "5"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El marqués de Mantua",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1619",
-                "occurrences": "9"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El marqués de las Navas",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1630",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Más puede celos que amor",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1653",
-                "occurrences": "13"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El mesón de la corte",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La mocedad de Roldán",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1624",
-                "occurrences": "17"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Del monte sale",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "14"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las mujeres sin hombres",
-                "subgenre": "Mitológico",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Ursón y Valentín, hijos del rey de Francia",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1604",
-                "occurrences": "6"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los palacios de Galiana",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1638",
-                "occurrences": "27"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Con su pan se lo coma",
-                "subgenre": "Villano",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los peligros de la ausencia",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1641",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los pleitos de Inglaterra",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1638",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las pobrezas de Reinaldo",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "23"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La prueba de los ingenios",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La quinta de Florencia",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1609",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los ramilletes de Madrid",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La resistencia honrada y condesa Matilde",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1609",
-                "occurrences": "13"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El saber puede dañar",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1638",
-                "occurrences": "9"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Sin secreto no hay amor",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "Sin fecha",
-                "occurrences": "4"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La serrana de Tormes",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La serrana de la vera",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El servir a buenos",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1641",
-                "occurrences": "24"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los torneos de Aragón",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los torneos de Aragón",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1614",
-                "occurrences": "9"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El valiente Céspedes",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1625",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El vaquero de Moraña",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El villano en su rincón",
-                "subgenre": "Palatino",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "19"
-            }
-        ]
-    },
-    {
         "@id": "6359210",
         "uuid": "https://www.geonames.org/6359210",
         "type": "Feature",
@@ -115661,57 +112861,6 @@
                 "genre": "Drama",
                 "date": "1625",
                 "occurrences": "4"
-            }
-        ]
-    },
-    {
-        "@id": "2987914",
-        "uuid": "https://www.geonames.org/2987914",
-        "type": "Feature",
-        "properties": {
-            "title": "Perpiñan",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.8947222222222,
-                42.6975
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Perpiñan",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2987914"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El mejor mozo de España",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1625",
-                "occurrences": "1"
             }
         ]
     },
@@ -117842,57 +114991,6 @@
         ]
     },
     {
-        "@id": "2960313",
-        "uuid": "https://www.geonames.org/2960313",
-        "type": "Feature",
-        "properties": {
-            "title": "Lucemburg",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                6.13,
-                49.77
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Lucemburg",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2960313"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Nueva victoria de don Gonzalo de Córdoba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1637",
-                "occurrences": "2"
-            }
-        ]
-    },
-    {
         "@id": "No identificado",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
@@ -118293,57 +115391,6 @@
         ]
     },
     {
-        "@id": "2792414",
-        "uuid": "https://www.geonames.org/2792414",
-        "type": "Feature",
-        "properties": {
-            "title": "Liexa",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                5.570555555555556,
-                50.639722222222225
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Liexa",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2792414"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Nueva victoria de don Gonzalo de Córdoba",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1637",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2792483",
         "uuid": "https://www.geonames.org/2792483",
         "type": "Feature",
@@ -118588,65 +115635,6 @@
                 "subgenre": "Historial profano",
                 "genre": "Drama",
                 "date": "1614",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "783754",
-        "uuid": "https://www.geonames.org/783754",
-        "type": "Feature",
-        "properties": {
-            "title": "Albanía",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                20.0,
-                41.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Albanía",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/783754"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El nuevo mundo descubierto por Cristóbal Colón",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1614",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Obras son amores",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1618",
                 "occurrences": "1"
             }
         ]
@@ -121933,57 +118921,6 @@
         ]
     },
     {
-        "@id": "1642673",
-        "uuid": "https://www.geonames.org/1642673",
-        "type": "Feature",
-        "properties": {
-            "title": "Javas",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                110.00444,
-                -7.49167
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Javas",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/1642673"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las pobrezas de Reinaldo",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "565361",
         "uuid": "https://www.geonames.org/565361",
         "type": "Feature",
@@ -122582,57 +119519,6 @@
         ]
     },
     {
-        "@id": "2744011",
-        "uuid": "https://www.geonames.org/2744011",
-        "type": "Feature",
-        "properties": {
-            "title": "Zelanda",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                3.75,
-                51.566666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Zelanda",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2744011"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El postrer godo de España",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1617",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2945356",
         "uuid": "https://www.geonames.org/2945356",
         "type": "Feature",
@@ -122640,7 +119526,7 @@
             "title": "Brandemburg",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 6
                 }
             ]
         },
@@ -122653,7 +119539,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "6 ocurrencia(s)"
             }
         ],
         "names": [
@@ -122688,6 +119574,30 @@
                 "genre": "Drama",
                 "date": "1625",
                 "occurrences": "1"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La imperial de Otón",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
+                 {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los hidalgos del aldea",
+                "subgenre": "Villano",
+                "genre": "Comedia",
+                "date": "1619",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Porfiando vence amor",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1637",
+                "occurrences": "2"
             }
         ]
     },
@@ -122834,65 +119744,6 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1635",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2103350",
-        "uuid": "https://www.geonames.org/2103350",
-        "type": "Feature",
-        "properties": {
-            "title": "Sol",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                159.81666666667,
-                -9.4666666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Sol",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2103350"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El premio de la hermosura",
-                "subgenre": "Caballeresco",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los ramilletes de Madrid",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1618",
                 "occurrences": "1"
             }
         ]
@@ -125374,7 +122225,7 @@
             "title": "Esparta",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -125387,7 +122238,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -125422,56 +122273,13 @@
                 "genre": "Comedia",
                 "date": "1620",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2992166",
-        "uuid": "https://www.geonames.org/2992166",
-        "type": "Feature",
-        "properties": {
-            "title": "Mompeller",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                3.8772305555556,
-                43.610919444444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Mompeller",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
             },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2992166"
-            }
-        ],
-        "relations": [
-            {
+             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La resistencia honrada y condesa Matilde",
-                "subgenre": "Palatino",
+                "title": "Los españoles en Flandes",
+                "subgenre": "Historial profano",
                 "genre": "Drama",
-                "date": "1609",
+                "date": "1620",
                 "occurrences": "1"
             }
         ]
@@ -127795,57 +124603,6 @@
         ]
     },
     {
-        "@id": "2523119",
-        "uuid": "https://www.geonames.org/2523119",
-        "type": "Feature",
-        "properties": {
-            "title": "Secilia",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.015377777778,
-                37.599958333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Secilia",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2523119"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Santo Ángelo",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "No identificado",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
@@ -128152,7 +124909,7 @@
         "uuid": "https://www.geonames.org/3277605",
         "type": "Feature",
         "properties": {
-            "title": "Bosna",
+            "title": "Bosnia",
             "occurrences": [
                 {
                     "value": 1
@@ -130000,57 +126757,6 @@
         ]
     },
     {
-        "@id": "2921044",
-        "uuid": "https://www.geonames.org/2921044",
-        "type": "Feature",
-        "properties": {
-            "title": "Alemaña",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                10.0,
-                51.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Alemaña",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2921044"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La traición bien acertada",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1604",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2661786",
         "uuid": "https://www.geonames.org/2661786",
         "type": "Feature",
@@ -130404,113 +127110,11 @@
         ]
     },
     {
-        "@id": "2921044",
-        "uuid": "https://www.geonames.org/2921044",
-        "type": "Feature",
-        "properties": {
-            "title": "Alemana",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                10.0,
-                51.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Alemana",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2921044"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El valiente Céspedes",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1625",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "3030293",
-        "uuid": "https://www.geonames.org/3030293",
-        "type": "Feature",
-        "properties": {
-            "title": "Gran Bretaña",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -3.0,
-                48.0
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Gran Bretaña",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3030293"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Valor, fortuna y lealtad de los Tellos de Meneses",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2635167",
         "uuid": "https://www.geonames.org/2635167",
         "type": "Feature",
         "properties": {
-            "title": "Castilla y de León",
+            "title": "Gran Bretaña",
             "occurrences": [
                 {
                     "value": 1
@@ -130531,7 +127135,7 @@
         ],
         "names": [
             {
-                "toponym": "Castilla y de León",
+                "toponym": "Gran Bretaña",
                 "lang": "es"
             }
         ],
@@ -131134,57 +127738,6 @@
                 "subgenre": "Historial religioso",
                 "genre": "Drama",
                 "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "664661",
-        "uuid": "https://www.geonames.org/664661",
-        "type": "Feature",
-        "properties": {
-            "title": "Transilvania.",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                23.583333333333,
-                46.766666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Transilvania.",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/664661"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La vengadora de las mujeres",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
                 "occurrences": "1"
             }
         ]
