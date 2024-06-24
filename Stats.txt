@@ -1,0 +1,1279 @@
+                                                n   % val%
+Spain                                         311 3.7  3.7
+Rome                                          227 2.7  2.7
+Italy                                         198 2.4  2.4
+Troy                                          193 2.3  2.3
+Castile                                       192 2.3  2.3
+France                                        180 2.1  2.1
+Toledo                                        144 1.7  1.7
+Greece                                        127 1.5  1.5
+Flanders                                      121 1.4  1.4
+Seville                                       116 1.4  1.4
+Madrid                                        113 1.3  1.3
+Aragon                                        108 1.3  1.3
+Africa                                        102 1.2  1.2
+Granada                                        92 1.1  1.1
+Europe                                         90 1.1  1.1
+Algiers                                        84 1.0  1.0
+Córdoba                                        84 1.0  1.0
+Portugal                                       84 1.0  1.0
+Naples                                         81 1.0  1.0
+Valencia                                       80 1.0  1.0
+Germany                                        79 0.9  0.9
+Libya                                          79 0.9  0.9
+Spanish West Indies                            78 0.9  0.9
+León                                           69 0.8  0.8
+Egypt                                          68 0.8  0.8
+Asia                                           66 0.8  0.8
+Arabian Peninsula                              64 0.8  0.8
+Barcelona                                      64 0.8  0.8
+Jerusalem                                      63 0.8  0.8
+Paris                                          58 0.7  0.7
+Sicily                                         56 0.7  0.7
+England                                        55 0.7  0.7
+Milan                                          55 0.7  0.7
+Navarre                                        55 0.7  0.7
+China                                          50 0.6  0.6
+Zaragoza                                       50 0.6  0.6
+Andalusia                                      49 0.6  0.6
+Hungary                                        46 0.5  0.5
+Babylon                                        45 0.5  0.5
+Galicia                                        43 0.5  0.5
+Albania                                        41 0.5  0.5
+Persia                                         40 0.5  0.5
+Venice                                         40 0.5  0.5
+Ethiopia                                       39 0.5  0.5
+India                                          39 0.5  0.5
+Salamanca                                      39 0.5  0.5
+Morocco                                        38 0.5  0.5
+Valladolid                                     38 0.5  0.5
+Scythia                                        37 0.4  0.4
+Constantinople                                 36 0.4  0.4
+Oran                                           36 0.4  0.4
+Prado                                          36 0.4  0.4
+Athens                                         35 0.4  0.4
+Zamora                                         34 0.4  0.4
+Tunisia                                        33 0.4  0.4
+Cádiz                                          32 0.4  0.4
+Biscay                                         31 0.4  0.4
+Cyprus                                         31 0.4  0.4
+Barbary Coast                                  29 0.3  0.3
+Lisbon                                         29 0.3  0.3
+Asturias                                       28 0.3  0.3
+Guadalquivir                                   28 0.3  0.3
+Israel                                         28 0.3  0.3
+Austria                                        27 0.3  0.3
+Burgos                                         27 0.3  0.3
+Genoa                                          26 0.3  0.3
+Crete                                          24 0.3  0.3
+Florence                                       24 0.3  0.3
+Santiago de Compostela                         24 0.3  0.3
+Guadarrama                                     23 0.3  0.3
+Marseille                                      23 0.3  0.3
+Mecca                                          23 0.3  0.3
+Pyrenees                                       23 0.3  0.3
+Alcalá de Henares                              22 0.3  0.3
+Douro                                          22 0.3  0.3
+Alhambra                                       21 0.3  0.3
+Cartagena                                      21 0.3  0.3
+Fez                                            21 0.3  0.3
+Jaén                                           21 0.3  0.3
+Jordan River                                   21 0.3  0.3
+Manzanares                                     21 0.3  0.3
+Catalonia                                      20 0.2  0.2
+Alba                                           19 0.2  0.2
+Ávila                                          19 0.2  0.2
+Bethlehem                                      19 0.2  0.2
+Dénia                                          19 0.2  0.2
+Malta                                          19 0.2  0.2
+Netherlands                                    19 0.2  0.2
+Syria                                          19 0.2  0.2
+Alicante                                       17 0.2  0.2
+Arcadia                                        17 0.2  0.2
+Gibraltar                                      17 0.2  0.2
+Illescas                                       17 0.2  0.2
+San Juan                                       17 0.2  0.2
+Scotland                                       17 0.2  0.2
+Bohemia                                        16 0.2  0.2
+Bolonia                                        16 0.2  0.2
+Brittany                                       16 0.2  0.2
+Carthage                                       16 0.2  0.2
+Jerez de la Frontera                           16 0.2  0.2
+Judea                                          16 0.2  0.2
+Turkey                                         16 0.2  0.2
+Oviedo                                         15 0.2  0.2
+Sanlúcar de Barrameda                          15 0.2  0.2
+Sierra Morena                                  15 0.2  0.2
+Thebes                                         15 0.2  0.2
+Triana                                         15 0.2  0.2
+Ceuta                                          14 0.2  0.2
+El Tarf Province                               14 0.2  0.2
+Lima                                           14 0.2  0.2
+London                                         14 0.2  0.2
+Numantia                                       14 0.2  0.2
+Pamplona                                       14 0.2  0.2
+Sardinia                                       14 0.2  0.2
+Tagus River                                    14 0.2  0.2
+Talavera de la Reina                           14 0.2  0.2
+Alpujarras                                     13 0.2  0.2
+Bizerte                                        13 0.2  0.2
+Cuenca                                         13 0.2  0.2
+Écija                                          13 0.2  0.2
+Málaga                                         13 0.2  0.2
+Medina del Campo                               13 0.2  0.2
+Alexandria                                     12 0.1  0.1
+Castile and León                               12 0.1  0.1
+Dalmatia                                       12 0.1  0.1
+Ireland                                        12 0.1  0.1
+Lanzarote                                      12 0.1  0.1
+Macedonia                                      12 0.1  0.1
+Mallorca                                       12 0.1  0.1
+Palestine                                      12 0.1  0.1
+Poland                                         12 0.1  0.1
+Segovia                                        12 0.1  0.1
+Tangier                                        12 0.1  0.1
+Tlemcen                                        12 0.1  0.1
+Transylvania                                   12 0.1  0.1
+Almería                                        11 0.1  0.1
+Extremadura                                    11 0.1  0.1
+Ferrara                                        11 0.1  0.1
+Guadalajara                                    11 0.1  0.1
+La Mancha                                      11 0.1  0.1
+Lebanon                                        11 0.1  0.1
+Lusitania                                      11 0.1  0.1
+Mantua                                         11 0.1  0.1
+Plasencia                                      11 0.1  0.1
+Sri Lanka                                      11 0.1  0.1
+Armenia                                        10 0.1  0.1
+Getafe                                         10 0.1  0.1
+Havana                                         10 0.1  0.1
+Hyrcanis                                       10 0.1  0.1
+Jarama                                         10 0.1  0.1
+Mount Olympus                                  10 0.1  0.1
+Atocha                                          9 0.1  0.1
+Cairo                                           9 0.1  0.1
+Caucasus Mountains                              9 0.1  0.1
+Ciudad Real                                     9 0.1  0.1
+Danube                                          9 0.1  0.1
+Guinea                                          9 0.1  0.1
+Miraflores de la Sierra                         9 0.1  0.1
+Mount Etna                                      9 0.1  0.1
+Mount Zion                                      9 0.1  0.1
+Murcia                                          9 0.1  0.1
+Narbonne                                        9 0.1  0.1
+Nazareth                                        9 0.1  0.1
+Norway                                          9 0.1  0.1
+Palencia                                        9 0.1  0.1
+Phoenicia                                       9 0.1  0.1
+Saint-Denis                                     9 0.1  0.1
+Thessalia                                       9 0.1  0.1
+Villena                                         9 0.1  0.1
+Antarctica                                      8 0.1  0.1
+Antequera                                       8 0.1  0.1
+Brussels                                        8 0.1  0.1
+Burgundy                                        8 0.1  0.1
+Calabria                                        8 0.1  0.1
+Corinth                                         8 0.1  0.1
+Ephesus                                         8 0.1  0.1
+Guadiana                                        8 0.1  0.1
+Gulf of Patras                                  8 0.1  0.1
+Jaca                                            8 0.1  0.1
+La Rochelle                                     8 0.1  0.1
+Lombardy                                        8 0.1  0.1
+Messina                                         8 0.1  0.1
+Mount Parnassus                                 8 0.1  0.1
+Nile                                            8 0.1  0.1
+Palermo                                         8 0.1  0.1
+Perpignan                                       8 0.1  0.1
+Potosí                                          8 0.1  0.1
+Tarifa                                          8 0.1  0.1
+Tartary                                         8 0.1  0.1
+Antakya                                         7 0.1  0.1
+Astorga                                         7 0.1  0.1
+Benavente                                       7 0.1  0.1
+Canary Islands                                  7 0.1  0.1
+Chile                                           7 0.1  0.1
+Ciudad Rodrigo                                  7 0.1  0.1
+Coimbra                                         7 0.1  0.1
+Colibre                                         7 0.1  0.1
+Denmark                                         7 0.1  0.1
+Galilee                                         7 0.1  0.1
+Gaul                                            7 0.1  0.1
+Geneva                                          7 0.1  0.1
+Guadalete                                       7 0.1  0.1
+Guadalupe                                       7 0.1  0.1
+Japan                                           7 0.1  0.1
+Melilla                                         7 0.1  0.1
+Santa Fe                                        7 0.1  0.1
+Sierra Nevada                                   7 0.1  0.1
+Tripoli                                         7 0.1  0.1
+Tyre                                            7 0.1  0.1
+Albaicín                                        6 0.1  0.1
+Alcántara                                       6 0.1  0.1
+Algeciras                                       6 0.1  0.1
+Bayonne                                         6 0.1  0.1
+Belflor                                         6 0.1  0.1
+Belgrade                                        6 0.1  0.1
+Brazil                                          6 0.1  0.1
+calle Mayor                                     6 0.1  0.1
+Casa de Campo                                   6 0.1  0.1
+Corse                                           6 0.1  0.1
+Ebro                                            6 0.1  0.1
+Epirus                                          6 0.1  0.1
+Farsala                                         6 0.1  0.1
+Hondarribiko                                    6 0.1  0.1
+Indies                                          6 0.1  0.1
+Loreto                                          6 0.1  0.1
+Mediterranean Sea                               6 0.1  0.1
+Miño                                            6 0.1  0.1
+Mount Carmel                                    6 0.1  0.1
+Red Sea                                         6 0.1  0.1
+Rhodes                                          6 0.1  0.1
+Samaria                                         6 0.1  0.1
+San Martín                                      6 0.1  0.1
+Saxony                                          6 0.1  0.1
+Seine                                           6 0.1  0.1
+Semíramis                                       6 0.1  0.1
+Sparta                                          6 0.1  0.1
+The Bahamas                                     6 0.1  0.1
+Vienna                                          6 0.1  0.1
+Villalba                                        6 0.1  0.1
+A Coruña                                        5 0.1  0.1
+Algarve                                         5 0.1  0.1
+Alps                                            5 0.1  0.1
+Americas                                        5 0.1  0.1
+Archidona                                       5 0.1  0.1
+Baeza                                           5 0.1  0.1
+Balán                                           5 0.1  0.1
+Brandenburg                                     5 0.1  0.1
+Cologne                                         5 0.1  0.1
+Friesland                                       5 0.1  0.1
+Gate of Bibarrambla                             5 0.1  0.1
+Genil                                           5 0.1  0.1
+Hipodamia                                       5 0.1  0.1
+Numidia                                         5 0.1  0.1
+Ocaña                                           5 0.1  0.1
+Ostia                                           5 0.1  0.1
+Parma                                           5 0.1  0.1
+Provence                                        5 0.1  0.1
+San Juan de aznalfarache                        5 0.1  0.1
+San Salvador                                    5 0.1  0.1
+Savoie                                          5 0.1  0.1
+Taroudant                                       5 0.1  0.1
+Torre del Oro                                   5 0.1  0.1
+Tower of Babel                                  5 0.1  0.1
+Tudela                                          5 0.1  0.1
+Vitoria-Gasteiz                                 5 0.1  0.1
+Wamba                                           5 0.1  0.1
+Zeeland                                         5 0.1  0.1
+Adamuz                                          4 0.0  0.0
+Alameda                                         4 0.0  0.0
+Alcorcón                                        4 0.0  0.0
+Andújar                                         4 0.0  0.0
+Aranjuez                                        4 0.0  0.0
+Arles                                           4 0.0  0.0
+Ayamonte                                        4 0.0  0.0
+Baza                                            4 0.0  0.0
+Béjar                                           4 0.0  0.0
+Bengal                                          4 0.0  0.0
+Bermuda                                         4 0.0  0.0
+Beşparmak Mountains                             4 0.0  0.0
+Carmona                                         4 0.0  0.0
+Castillo de San Servando                        4 0.0  0.0
+Coria                                           4 0.0  0.0
+Elysium                                         4 0.0  0.0
+Ferrol                                          4 0.0  0.0
+Formentera                                      4 0.0  0.0
+Ganges                                          4 0.0  0.0
+Gascogne                                        4 0.0  0.0
+Gaza City                                       4 0.0  0.0
+Ghent                                           4 0.0  0.0
+Ibiza                                           4 0.0  0.0
+Lorraine                                        4 0.0  0.0
+Malagón                                         4 0.0  0.0
+Mexico                                          4 0.0  0.0
+Monserrate                                      4 0.0  0.0
+Navas de Tolosa                                 4 0.0  0.0
+New Spain                                       4 0.0  0.0
+Olympia                                         4 0.0  0.0
+Palma                                           4 0.0  0.0
+Pavia                                           4 0.0  0.0
+Peru                                            4 0.0  0.0
+Plaza de Zocodover                              4 0.0  0.0
+Province of Roussillon                          4 0.0  0.0
+Ribadavia                                       4 0.0  0.0
+Ronda                                           4 0.0  0.0
+Royal Monastery of San Lorenzo de El Escorial   4 0.0  0.0
+Sagunto                                         4 0.0  0.0
+Sahagún                                         4 0.0  0.0
+San Sebastián                                   4 0.0  0.0
+Santángel                                       4 0.0  0.0
+Soto                                            4 0.0  0.0
+Sousse                                          4 0.0  0.0
+Tablada                                         4 0.0  0.0
+Temple of Vesta                                 4 0.0  0.0
+Tenerife                                        4 0.0  0.0
+Thrace                                          4 0.0  0.0
+Tolosa                                          4 0.0  0.0
+Úbeda                                           4 0.0  0.0
+Urbino                                          4 0.0  0.0
+Vega de Granada                                 4 0.0  0.0
+Villafranca                                     4 0.0  0.0
+Vinaròs                                         4 0.0  0.0
+Alcolea                                         3 0.0  0.0
+Almanzor                                        3 0.0  0.0
+Almazán                                         3 0.0  0.0
+Almodóvar del Río                               3 0.0  0.0
+Almonte                                         3 0.0  0.0
+Anamur                                          3 0.0  0.0
+Ancona                                          3 0.0  0.0
+Antwerp                                         3 0.0  0.0
+Apennine Mountains                              3 0.0  0.0
+Arctic                                          3 0.0  0.0
+Arlanza                                         3 0.0  0.0
+Aseo                                            3 0.0  0.0
+Asilah                                          3 0.0  0.0
+Badajoz                                         3 0.0  0.0
+Bavaria                                         3 0.0  0.0
+Bujía                                           3 0.0  0.0
+calle de Toledo                                 3 0.0  0.0
+Cambrai                                         3 0.0  0.0
+Capua                                           3 0.0  0.0
+Carabanchel                                     3 0.0  0.0
+Cártama                                         3 0.0  0.0
+Comares                                         3 0.0  0.0
+Congo                                           3 0.0  0.0
+Corfu                                           3 0.0  0.0
+Cubagua                                         3 0.0  0.0
+Dacia                                           3 0.0  0.0
+Delphi                                          3 0.0  0.0
+East Indies                                     3 0.0  0.0
+Empire of Trebizond                             3 0.0  0.0
+Estela                                          3 0.0  0.0
+Estremoz                                        3 0.0  0.0
+Gaeta                                           3 0.0  0.0
+Irun                                            3 0.0  0.0
+Java                                            3 0.0  0.0
+Kingdom of Iberia                               3 0.0  0.0
+La Gomera                                       3 0.0  0.0
+Lerma                                           3 0.0  0.0
+Liège                                           3 0.0  0.0
+Lorca                                           3 0.0  0.0
+Lugo                                            3 0.0  0.0
+Madián                                          3 0.0  0.0
+Mainz                                           3 0.0  0.0
+Marbella                                        3 0.0  0.0
+Martos                                          3 0.0  0.0
+Masalanca                                       3 0.0  0.0
+Mauritania                                      3 0.0  0.0
+Mechelen                                        3 0.0  0.0
+Medina Sidonia                                  3 0.0  0.0
+Mesopotamia                                     3 0.0  0.0
+Moab                                            3 0.0  0.0
+Monforte                                        3 0.0  0.0
+Montalbán                                       3 0.0  0.0
+Montilla                                        3 0.0  0.0
+Mount Tabor                                     3 0.0  0.0
+Mysia                                           3 0.0  0.0
+Old Castile                                     3 0.0  0.0
+Osuna                                           3 0.0  0.0
+Palacio de Bibataubín                           3 0.0  0.0
+Peloponnese                                     3 0.0  0.0
+Piedmont                                        3 0.0  0.0
+Plaza de la Olivera                             3 0.0  0.0
+Pomas                                           3 0.0  0.0
+Puerta del Sol                                  3 0.0  0.0
+Río de la Plata                                 3 0.0  0.0
+Russia                                          3 0.0  0.0
+Saint-Jean-de-Luz                               3 0.0  0.0
+San Ginés                                       3 0.0  0.0
+San Marcos                                      3 0.0  0.0
+Sansueña                                        3 0.0  0.0
+Santa María                                     3 0.0  0.0
+Segorbe                                         3 0.0  0.0
+Sheba                                           3 0.0  0.0
+Spanish Florida                                 3 0.0  0.0
+Tarragona                                       3 0.0  0.0
+Teruel                                          3 0.0  0.0
+Tetuán                                          3 0.0  0.0
+Tormes                                          3 0.0  0.0
+Trujillo                                        3 0.0  0.0
+Urgell                                          3 0.0  0.0
+Vandalia                                        3 0.0  0.0
+Vera                                            3 0.0  0.0
+Aachen                                          2 0.0  0.0
+Acheron                                         2 0.0  0.0
+Aigues-Mortes                                   2 0.0  0.0
+Alburquerque                                    2 0.0  0.0
+Alcázar                                         2 0.0  0.0
+Aldehuela                                       2 0.0  0.0
+Alentejo                                        2 0.0  0.0
+Algaba                                          2 0.0  0.0
+Algarbes                                        2 0.0  0.0
+Alhama                                          2 0.0  0.0
+Almagro                                         2 0.0  0.0
+Almansa                                         2 0.0  0.0
+Almenara                                        2 0.0  0.0
+Altamira                                        2 0.0  0.0
+Amaltea                                         2 0.0  0.0
+Anatolia                                        2 0.0  0.0
+Andaya                                          2 0.0  0.0
+Ardenia                                         2 0.0  0.0
+Arenal                                          2 0.0  0.0
+Arévalo                                         2 0.0  0.0
+Arjona                                          2 0.0  0.0
+Assyrian Empire                                 2 0.0  0.0
+Axarquía                                        2 0.0  0.0
+Belmirar                                        2 0.0  0.0
+Besançon                                        2 0.0  0.0
+Biarne                                          2 0.0  0.0
+Brabante                                        2 0.0  0.0
+Byzantine Empire                                2 0.0  0.0
+Cabra                                           2 0.0  0.0
+Calahorra                                       2 0.0  0.0
+Calès                                           2 0.0  0.0
+calle de Santiago                               2 0.0  0.0
+Canaán                                          2 0.0  0.0
+Cantillana                                      2 0.0  0.0
+Cape of Good Hope                               2 0.0  0.0
+Caramania                                       2 0.0  0.0
+Caria                                           2 0.0  0.0
+Caribbean                                       2 0.0  0.0
+Carpacio                                        2 0.0  0.0
+Carrión de los Condes                           2 0.0  0.0
+Caspian Sea                                     2 0.0  0.0
+Castillanzul                                    2 0.0  0.0
+Castilleja                                      2 0.0  0.0
+Castle of Castilnovo                            2 0.0  0.0
+Cervera                                         2 0.0  0.0
+Cilicia                                         2 0.0  0.0
+Covadonga                                       2 0.0  0.0
+Cremona                                         2 0.0  0.0
+Dueñas                                          2 0.0  0.0
+Engaddí                                         2 0.0  0.0
+Eritrea                                         2 0.0  0.0
+Erymanthos                                      2 0.0  0.0
+Esgueva River                                   2 0.0  0.0
+Estella                                         2 0.0  0.0
+Etruria                                         2 0.0  0.0
+Euphrates                                       2 0.0  0.0
+Famagusta                                       2 0.0  0.0
+Finisterre                                      2 0.0  0.0
+Fuente del Sauco                                2 0.0  0.0
+Fuentes                                         2 0.0  0.0
+Galaad                                          2 0.0  0.0
+Galatia                                         2 0.0  0.0
+Gandia                                          2 0.0  0.0
+Gange                                           2 0.0  0.0
+Gelves                                          2 0.0  0.0
+Generalife                                      2 0.0  0.0
+Gipuzkoa                                        2 0.0  0.0
+Gran Canaria                                    2 0.0  0.0
+Guadalcázar                                     2 0.0  0.0
+Guadix                                          2 0.0  0.0
+Helicona                                        2 0.0  0.0
+Henares                                         2 0.0  0.0
+Hippo Regius                                    2 0.0  0.0
+Hispania Baetica                                2 0.0  0.0
+Hispaniola                                      2 0.0  0.0
+Huesca                                          2 0.0  0.0
+Huete                                           2 0.0  0.0
+Iceland                                         2 0.0  0.0
+Iglesia de San Miguel el Alto                   2 0.0  0.0
+Kleve                                           2 0.0  0.0
+Kraków                                          2 0.0  0.0
+Languedoc                                       2 0.0  0.0
+Larache                                         2 0.0  0.0
+Las Yeguas                                      2 0.0  0.0
+Lavapiés                                        2 0.0  0.0
+Leganés                                         2 0.0  0.0
+Lleida                                          2 0.0  0.0
+Lozoya                                          2 0.0  0.0
+Luxembourg                                      2 0.0  0.0
+Madalena                                        2 0.0  0.0
+Magdalo                                         2 0.0  0.0
+Malacca                                         2 0.0  0.0
+Malindi                                         2 0.0  0.0
+Mambré                                          2 0.0  0.0
+Mansilla                                        2 0.0  0.0
+Marne                                           2 0.0  0.0
+Medellín                                        2 0.0  0.0
+Media                                           2 0.0  0.0
+Medinaceli                                      2 0.0  0.0
+Mers El Kebir                                   2 0.0  0.0
+Mexico City                                     2 0.0  0.0
+Mirabel                                         2 0.0  0.0
+Montes Claros                                   2 0.0  0.0
+montes Rifeos                                   2 0.0  0.0
+Montpellier                                     2 0.0  0.0
+Morón                                           2 0.0  0.0
+Mosa                                            2 0.0  0.0
+Moscovia                                        2 0.0  0.0
+Móstoles                                        2 0.0  0.0
+Mount Bethel                                    2 0.0  0.0
+Mount Vesuvius                                  2 0.0  0.0
+Mozambique                                      2 0.0  0.0
+Nájera                                          2 0.0  0.0
+Nice                                            2 0.0  0.0
+Normandy                                        2 0.0  0.0
+Ofir                                            2 0.0  0.0
+Olías                                           2 0.0  0.0
+Olmedo                                          2 0.0  0.0
+Orihuela                                        2 0.0  0.0
+Otranto                                         2 0.0  0.0
+Padua                                           2 0.0  0.0
+Palenzuela                                      2 0.0  0.0
+Patmos                                          2 0.0  0.0
+Peñaflor                                        2 0.0  0.0
+Pescara                                         2 0.0  0.0
+Phrygia                                         2 0.0  0.0
+Piedrahíta                                      2 0.0  0.0
+Pisa                                            2 0.0  0.0
+plaza Mayor                                     2 0.0  0.0
+Plymouth                                        2 0.0  0.0
+Porto Saona                                     2 0.0  0.0
+Pyramids                                        2 0.0  0.0
+Quivira                                         2 0.0  0.0
+Requena                                         2 0.0  0.0
+Rhine                                           2 0.0  0.0
+Ribadeo                                         2 0.0  0.0
+Roncevaux Pass                                  2 0.0  0.0
+Saldaña                                         2 0.0  0.0
+San Agustín                                     2 0.0  0.0
+San Andrés                                      2 0.0  0.0
+San Antón                                       2 0.0  0.0
+San Felipe                                      2 0.0  0.0
+San Francisco                                   2 0.0  0.0
+San Luis                                        2 0.0  0.0
+San Miguel                                      2 0.0  0.0
+Santarém                                        2 0.0  0.0
+Santo Domingo                                   2 0.0  0.0
+Sarrià                                          2 0.0  0.0
+Sedom                                           2 0.0  0.0
+Seleucia                                        2 0.0  0.0
+Selín                                           2 0.0  0.0
+Senir                                           2 0.0  0.0
+Sigüenza                                        2 0.0  0.0
+Sobrarbe                                        2 0.0  0.0
+Strasbourg                                      2 0.0  0.0
+Sweden                                          2 0.0  0.0
+Tabladillo                                      2 0.0  0.0
+Tafalla                                         2 0.0  0.0
+Tafilalt                                        2 0.0  0.0
+Tambico                                         2 0.0  0.0
+Tanais                                          2 0.0  0.0
+Tarsus                                          2 0.0  0.0
+Terranova                                       2 0.0  0.0
+Tibar                                           2 0.0  0.0
+Tiopia                                          2 0.0  0.0
+Toro                                            2 0.0  0.0
+Torres Bermejas Castle                          2 0.0  0.0
+Tortosa                                         2 0.0  0.0
+Turin                                           2 0.0  0.0
+Turkestan                                       2 0.0  0.0
+Tuscany                                         2 0.0  0.0
+Valenzuela                                      2 0.0  0.0
+Viana                                           2 0.0  0.0
+Villahermosa                                    2 0.0  0.0
+Viseu                                           2 0.0  0.0
+Wallachia                                       2 0.0  0.0
+Zarza                                           2 0.0  0.0
+Abarima                                         1 0.0  0.0
+Abenamar                                        1 0.0  0.0
+Abenaya                                         1 0.0  0.0
+Abrruzzo                                        1 0.0  0.0
+Abruzzo                                         1 0.0  0.0
+Acroya                                          1 0.0  0.0
+Advares                                         1 0.0  0.0
+Aegina                                          1 0.0  0.0
+Agramonte                                       1 0.0  0.0
+Agurlema                                        1 0.0  0.0
+Aibar                                           1 0.0  0.0
+Al ‘Ayzarīyah                                   1 0.0  0.0
+Al Jib                                          1 0.0  0.0
+Alanís                                          1 0.0  0.0
+Alarcón                                         1 0.0  0.0
+Alborán                                         1 0.0  0.0
+Albufera                                        1 0.0  0.0
+Alcaidía                                        1 0.0  0.0
+Alcalá del Río                                  1 0.0  0.0
+Alcalá Street                                   1 0.0  0.0
+Alcaraz                                         1 0.0  0.0
+Alcaudete                                       1 0.0  0.0
+Alcázar de Toledo                               1 0.0  0.0
+Alcázar of Seville                              1 0.0  0.0
+Alcobendas                                      1 0.0  0.0
+Alcúdia                                         1 0.0  0.0
+Alerán                                          1 0.0  0.0
+Alhajara                                        1 0.0  0.0
+Alhama de Murcia                                1 0.0  0.0
+Aliatar                                         1 0.0  0.0
+Aljarafe                                        1 0.0  0.0
+Almada                                          1 0.0  0.0
+Almenar                                         1 0.0  0.0
+Almodóvar                                       1 0.0  0.0
+Almodóvar del Campo                             1 0.0  0.0
+Almoradí                                        1 0.0  0.0
+Almudena                                        1 0.0  0.0
+Alora                                           1 0.0  0.0
+Altaflor                                        1 0.0  0.0
+Altozana                                        1 0.0  0.0
+Alvega                                          1 0.0  0.0
+Amalfi                                          1 0.0  0.0
+Amiens                                          1 0.0  0.0
+Ancud                                           1 0.0  0.0
+Andes                                           1 0.0  0.0
+Andrada                                         1 0.0  0.0
+Anglante                                        1 0.0  0.0
+Angra                                           1 0.0  0.0
+Anguisola                                       1 0.0  0.0
+Anguitola                                       1 0.0  0.0
+Antioquia                                       1 0.0  0.0
+Aquiles de Segovia                              1 0.0  0.0
+Aracena                                         1 0.0  0.0
+Arafe                                           1 0.0  0.0
+Arambel                                         1 0.0  0.0
+Aran                                            1 0.0  0.0
+Aranda                                          1 0.0  0.0
+Arbolán                                         1 0.0  0.0
+Arcacida                                        1 0.0  0.0
+Ardea                                           1 0.0  0.0
+Arga                                            1 0.0  0.0
+Argán                                           1 0.0  0.0
+Arganda del Rey                                 1 0.0  0.0
+Argos                                           1 0.0  0.0
+Aripa                                           1 0.0  0.0
+Ariza                                           1 0.0  0.0
+Arlanzón                                        1 0.0  0.0
+Aroania                                         1 0.0  0.0
+Arrizafa                                        1 0.0  0.0
+Assisi                                          1 0.0  0.0
+Asti                                            1 0.0  0.0
+Astrakhan                                       1 0.0  0.0
+Atelia                                          1 0.0  0.0
+Atienza                                         1 0.0  0.0
+Atlantic Ocean                                  1 0.0  0.0
+Audalla                                         1 0.0  0.0
+Aulide                                          1 0.0  0.0
+Ausonia                                         1 0.0  0.0
+Badia des Alfacs                                1 0.0  0.0
+Baena                                           1 0.0  0.0
+Balaguer                                        1 0.0  0.0
+Balearic Islands                                1 0.0  0.0
+Balerma                                         1 0.0  0.0
+Bamot                                           1 0.0  0.0
+Baños de la Reina Mora                          1 0.0  0.0
+Barajas                                         1 0.0  0.0
+Barbadillo                                      1 0.0  0.0
+Barbarigo                                       1 0.0  0.0
+Barco de Ávila                                  1 0.0  0.0
+Barfol                                          1 0.0  0.0
+Bari                                            1 0.0  0.0
+Barletta                                        1 0.0  0.0
+Barra de Sanlúcar                               1 0.0  0.0
+Barucoa                                         1 0.0  0.0
+Basel                                           1 0.0  0.0
+Basilicata                                      1 0.0  0.0
+Belda                                           1 0.0  0.0
+Belém tower                                     1 0.0  0.0
+Belfor                                          1 0.0  0.0
+Belmez                                          1 0.0  0.0
+Belmonte                                        1 0.0  0.0
+Benamarín                                       1 0.0  0.0
+Benamejí                                        1 0.0  0.0
+Benavento                                       1 0.0  0.0
+Berlián                                         1 0.0  0.0
+Bermejas                                        1 0.0  0.0
+Beserta                                         1 0.0  0.0
+Beta y Mont                                     1 0.0  0.0
+Bethany                                         1 0.0  0.0
+Betulia                                         1 0.0  0.0
+Biafar                                          1 0.0  0.0
+Biafara                                         1 0.0  0.0
+Bibalmazán                                      1 0.0  0.0
+Bilbao                                          1 0.0  0.0
+Bisignano                                       1 0.0  0.0
+Boeotia                                         1 0.0  0.0
+Bogotá                                          1 0.0  0.0
+Bosnia and Herzegovina                          1 0.0  0.0
+Bougès                                          1 0.0  0.0
+Bozmar                                          1 0.0  0.0
+Braga                                           1 0.0  0.0
+Brava                                           1 0.0  0.0
+Brest                                           1 0.0  0.0
+Bretagne                                        1 0.0  0.0
+Bridge of Segovia                               1 0.0  0.0
+Briviesca                                       1 0.0  0.0
+Bruges                                          1 0.0  0.0
+Buendía                                         1 0.0  0.0
+Bulgaria                                        1 0.0  0.0
+Burgo de Nimi                                   1 0.0  0.0
+Burguillos                                      1 0.0  0.0
+Burueba                                         1 0.0  0.0
+Cabañas                                         1 0.0  0.0
+Cabo de Gata                                    1 0.0  0.0
+Cabo de San Vicente                             1 0.0  0.0
+Caelian Hill                                    1 0.0  0.0
+Cal de Francos                                  1 0.0  0.0
+Calambre                                        1 0.0  0.0
+Calatayud                                       1 0.0  0.0
+calle de Francos                                1 0.0  0.0
+calle de la Cabeza                              1 0.0  0.0
+calle de la Espada                              1 0.0  0.0
+calle de la Flor                                1 0.0  0.0
+calle de la Oliva                               1 0.0  0.0
+calle de las Armas                              1 0.0  0.0
+Calle de los Gomeles                            1 0.0  0.0
+Calle de los Jardines                           1 0.0  0.0
+calle de San Francisco                          1 0.0  0.0
+calle de San Luis                               1 0.0  0.0
+Calle del Arenal                                1 0.0  0.0
+Calvary                                         1 0.0  0.0
+Cambaya                                         1 0.0  0.0
+Camis                                           1 0.0  0.0
+Campeche                                        1 0.0  0.0
+Campos Elisios                                  1 0.0  0.0
+Campuzano                                       1 0.0  0.0
+Cananea                                         1 0.0  0.0
+Cañete de las torres                            1 0.0  0.0
+Cangas                                          1 0.0  0.0
+Canosa di Puglia                                1 0.0  0.0
+Capalonas                                       1 0.0  0.0
+Cape Gata                                       1 0.0  0.0
+Cape St. Vincent                                1 0.0  0.0
+Cape Verde                                      1 0.0  0.0
+Capira                                          1 0.0  0.0
+Capitoline Hill                                 1 0.0  0.0
+Cappadocia                                      1 0.0  0.0
+Caravaca de la Cruz                             1 0.0  0.0
+Carpeya                                         1 0.0  0.0
+Carriedo                                        1 0.0  0.0
+Carza                                           1 0.0  0.0
+Casa San Severina                               1 0.0  0.0
+Casiano                                         1 0.0  0.0
+Castañar                                        1 0.0  0.0
+Castellar de la Frontera                        1 0.0  0.0
+Castellón                                       1 0.0  0.0
+Castil David                                    1 0.0  0.0
+Castilguillermo                                 1 0.0  0.0
+Castillo de Altarriba                           1 0.0  0.0
+Castroviejo                                     1 0.0  0.0
+Catania                                         1 0.0  0.0
+Catarrocha                                      1 0.0  0.0
+Catedral basílica de Nuestra Señora del Pilar   1 0.0  0.0
+Caucaso                                         1 0.0  0.0
+Cayucupil                                       1 0.0  0.0
+Cerro de Andalicán                              1 0.0  0.0
+Cerro Rico                                      1 0.0  0.0
+Cevita Vieja                                    1 0.0  0.0
+Chacona                                         1 0.0  0.0
+Chafalonia                                      1 0.0  0.0
+Chapela                                         1 0.0  0.0
+Chincoya                                        1 0.0  0.0
+Cirueña                                         1 0.0  0.0
+Citra                                           1 0.0  0.0
+Coca                                            1 0.0  0.0
+Coín                                            1 0.0  0.0
+Colinia                                         1 0.0  0.0
+Colombres                                       1 0.0  0.0
+Concepción                                      1 0.0  0.0
+Consuegra                                       1 0.0  0.0
+Convento de Santa Clara                         1 0.0  0.0
+Corón                                           1 0.0  0.0
+Cortefue                                        1 0.0  0.0
+Cortijo de las Peñas                            1 0.0  0.0
+Crevillén                                       1 0.0  0.0
+Croya                                           1 0.0  0.0
+Cuba                                            1 0.0  0.0
+Cumana                                          1 0.0  0.0
+Damascus                                        1 0.0  0.0
+Daraja                                          1 0.0  0.0
+Daroca                                          1 0.0  0.0
+Dinadamar                                       1 0.0  0.0
+Dotaïn                                          1 0.0  0.0
+Dunkirk                                         1 0.0  0.0
+Dura                                            1 0.0  0.0
+Ebrón                                           1 0.0  0.0
+Efes                                            1 0.0  0.0
+El Espinar                                      1 0.0  0.0
+El Jadida                                       1 0.0  0.0
+Elba                                            1 0.0  0.0
+Elche                                           1 0.0  0.0
+Elíseos                                         1 0.0  0.0
+Emaus                                           1 0.0  0.0
+Emaús                                           1 0.0  0.0
+Emeq HaEla                                      1 0.0  0.0
+Enchusén                                        1 0.0  0.0
+Engol                                           1 0.0  0.0
+Eradïano                                        1 0.0  0.0
+Errenteria                                      1 0.0  0.0
+Erymanthos Municipality                         1 0.0  0.0
+Escalona                                        1 0.0  0.0
+Escarpanto                                      1 0.0  0.0
+Esquiline Hill                                  1 0.0  0.0
+Estepa                                          1 0.0  0.0
+Estridón                                        1 0.0  0.0
+Euripus Strait                                  1 0.0  0.0
+Eutrosa                                         1 0.0  0.0
+Faro                                            1 0.0  0.0
+Faura                                           1 0.0  0.0
+Fenecén                                         1 0.0  0.0
+Fenez                                           1 0.0  0.0
+Ferezca                                         1 0.0  0.0
+Fert                                            1 0.0  0.0
+Fos                                             1 0.0  0.0
+Fraga                                           1 0.0  0.0
+Francelisa                                      1 0.0  0.0
+Franken                                         1 0.0  0.0
+Fuenlabrada                                     1 0.0  0.0
+Fuente Aguinaldo                                1 0.0  0.0
+Fuente Castellana                               1 0.0  0.0
+Fuente Imán                                     1 0.0  0.0
+Fuente Obejuna                                  1 0.0  0.0
+Fuente Zumel                                    1 0.0  0.0
+Fuerteventura                                   1 0.0  0.0
+Galera                                          1 0.0  0.0
+Gandelo                                         1 0.0  0.0
+Garaguí                                         1 0.0  0.0
+Gárgano                                         1 0.0  0.0
+Garganta la Olla                                1 0.0  0.0
+Garigliano                                      1 0.0  0.0
+Gavia                                           1 0.0  0.0
+Gedrosia                                        1 0.0  0.0
+Genel                                           1 0.0  0.0
+Getsemaní                                       1 0.0  0.0
+Gibraleón                                       1 0.0  0.0
+Gomeles                                         1 0.0  0.0
+Gozán                                           1 0.0  0.0
+Gradas                                          1 0.0  0.0
+Grado                                           1 0.0  0.0
+Great Britain                                   1 0.0  0.0
+Guadaira                                        1 0.0  0.0
+Guanahani                                       1 0.0  0.0
+Güelmes                                         1 0.0  0.0
+Guimaráns                                       1 0.0  0.0
+Guisando                                        1 0.0  0.0
+Guyana                                          1 0.0  0.0
+Habor                                           1 0.0  0.0
+Haiti                                           1 0.0  0.0
+Hidaspe                                         1 0.0  0.0
+Hidaspes                                        1 0.0  0.0
+Hieros                                          1 0.0  0.0
+Holy Land                                       1 0.0  0.0
+Horán                                           1 0.0  0.0
+Hored                                           1 0.0  0.0
+Hormuz                                          1 0.0  0.0
+Hornachuelos                                    1 0.0  0.0
+Hostilia                                        1 0.0  0.0
+Huelva                                          1 0.0  0.0
+Huerta del Rey                                  1 0.0  0.0
+Idumea                                          1 0.0  0.0
+Iglesia de San Jerónimo el Real                 1 0.0  0.0
+Iglesia de San Sebastián                        1 0.0  0.0
+Iglesia de Santa María Magdalena                1 0.0  0.0
+Indias de Marte                                 1 0.0  0.0
+Izmir                                           1 0.0  0.0
+Izmit                                           1 0.0  0.0
+Iznatoraf                                       1 0.0  0.0
+Jabea                                           1 0.0  0.0
+Jaragui                                         1 0.0  0.0
+Jarana                                          1 0.0  0.0
+Jarifa                                          1 0.0  0.0
+Jatelete                                        1 0.0  0.0
+Jope                                            1 0.0  0.0
+Jordan                                          1 0.0  0.0
+Karamania                                       1 0.0  0.0
+Kefalonia                                       1 0.0  0.0
+Kerman                                          1 0.0  0.0
+Ksar El Kebir                                   1 0.0  0.0
+La Concepción                                   1 0.0  0.0
+La Goulette                                     1 0.0  0.0
+La Guaira                                       1 0.0  0.0
+La Guardia                                      1 0.0  0.0
+La Roda                                         1 0.0  0.0
+La Saïdia                                       1 0.0  0.0
+La Sisla de Toledo                              1 0.0  0.0
+La Zambra                                       1 0.0  0.0
+Labán                                           1 0.0  0.0
+Labor                                           1 0.0  0.0
+Lagos                                           1 0.0  0.0
+Landedeste                                      1 0.0  0.0
+Laredo                                          1 0.0  0.0
+Las Palmas de Gran Canaria                      1 0.0  0.0
+Las Ventas                                      1 0.0  0.0
+Lebis                                           1 0.0  0.0
+Leda                                            1 0.0  0.0
+Lemos                                           1 0.0  0.0
+León de San Marcos                              1 0.0  0.0
+Leone                                           1 0.0  0.0
+Lepe                                            1 0.0  0.0
+Lerín                                           1 0.0  0.0
+Lesbos                                          1 0.0  0.0
+Leuven                                          1 0.0  0.0
+Liberia                                         1 0.0  0.0
+Libia                                           1 0.0  0.0
+Licata                                          1 0.0  0.0
+Limbo                                           1 0.0  0.0
+Litris                                          1 0.0  0.0
+Livonia                                         1 0.0  0.0
+Loja                                            1 0.0  0.0
+Lomelín                                         1 0.0  0.0
+Lora                                            1 0.0  0.0
+Los Filabres-Tabernas                           1 0.0  0.0
+Los Remedios                                    1 0.0  0.0
+Los Yébenes                                     1 0.0  0.0
+Lucena                                          1 0.0  0.0
+Luque                                           1 0.0  0.0
+Lycaonia                                        1 0.0  0.0
+Maastricht                                      1 0.0  0.0
+Madalenas                                       1 0.0  0.0
+Madeira                                         1 0.0  0.0
+Madrialo                                        1 0.0  0.0
+Madrillos                                       1 0.0  0.0
+Magán                                           1 0.0  0.0
+Mandinga                                        1 0.0  0.0
+Manresa                                         1 0.0  0.0
+Maqueda                                         1 0.0  0.0
+Mar de las Sirenas                              1 0.0  0.0
+Mar Grande                                      1 0.0  0.0
+Marañón                                         1 0.0  0.0
+Marchena                                        1 0.0  0.0
+Marle                                           1 0.0  0.0
+Mármol                                          1 0.0  0.0
+Marzagán                                        1 0.0  0.0
+Masareta                                        1 0.0  0.0
+Mayorga                                         1 0.0  0.0
+Mazagan                                         1 0.0  0.0
+Medea                                           1 0.0  0.0
+Medos                                           1 0.0  0.0
+Meknes                                          1 0.0  0.0
+Melfa                                           1 0.0  0.0
+Membrilla                                       1 0.0  0.0
+Memphis                                         1 0.0  0.0
+Mencia                                          1 0.0  0.0
+Menorca                                         1 0.0  0.0
+Mérida                                          1 0.0  0.0
+Mesón del Atalante                              1 0.0  0.0
+Mesón del Sevillano                             1 0.0  0.0
+Mesuar                                          1 0.0  0.0
+Milagro                                         1 0.0  0.0
+Minaroz                                         1 0.0  0.0
+Miralba                                         1 0.0  0.0
+Miramamolín                                     1 0.0  0.0
+Mistà                                           1 0.0  0.0
+Moguer                                          1 0.0  0.0
+Monasterio de Cistel                            1 0.0  0.0
+Monasterio de San Bruno                         1 0.0  0.0
+Monasterio de San Juan de los Reyes             1 0.0  0.0
+Monasterio de San Leonardo de Alba              1 0.0  0.0
+Monasterio de San Miguel de los Reyes           1 0.0  0.0
+Monastery of San Pedro de Cardeña               1 0.0  0.0
+Moncada                                         1 0.0  0.0
+Moncayo                                         1 0.0  0.0
+Montalto                                        1 0.0  0.0
+Monte Atón                                      1 0.0  0.0
+Monte Cassino                                   1 0.0  0.0
+monte Cisalpino                                 1 0.0  0.0
+Monte Falcano                                   1 0.0  0.0
+monte Helicona                                  1 0.0  0.0
+monte Imán                                      1 0.0  0.0
+monte Joaquín                                   1 0.0  0.0
+Monte Lauro                                     1 0.0  0.0
+Monte Olivete                                   1 0.0  0.0
+monte Riselo                                    1 0.0  0.0
+Montefiascone                                   1 0.0  0.0
+Monteflor                                       1 0.0  0.0
+Montemayor                                      1 0.0  0.0
+Montemedoro                                     1 0.0  0.0
+Monterrey                                       1 0.0  0.0
+Montes de Toledo                                1 0.0  0.0
+Montes Marianos                                 1 0.0  0.0
+montes Pesulanos                                1 0.0  0.0
+montes Riseos                                   1 0.0  0.0
+Montiel                                         1 0.0  0.0
+Monviedro                                       1 0.0  0.0
+Mora                                            1 0.0  0.0
+Moraña                                          1 0.0  0.0
+Moratalla                                       1 0.0  0.0
+Moravia                                         1 0.0  0.0
+Mormojón                                        1 0.0  0.0
+Motril                                          1 0.0  0.0
+Mount Ida                                       1 0.0  0.0
+Mount of Olives                                 1 0.0  0.0
+Mount Sinai                                     1 0.0  0.0
+Mulhacén                                        1 0.0  0.0
+Murabel                                         1 0.0  0.0
+Nagasaki                                        1 0.0  0.0
+Namur                                           1 0.0  0.0
+Nantes                                          1 0.0  0.0
+Navalcarnero                                    1 0.0  0.0
+Navarrete                                       1 0.0  0.0
+Nebo                                            1 0.0  0.0
+Nervi                                           1 0.0  0.0
+Nicosia                                         1 0.0  0.0
+Niebla                                          1 0.0  0.0
+Niobe                                           1 0.0  0.0
+Nitria                                          1 0.0  0.0
+Noroña                                          1 0.0  0.0
+Novara                                          1 0.0  0.0
+Oceso                                           1 0.0  0.0
+Oliva                                           1 0.0  0.0
+Oñati                                           1 0.0  0.0
+Orbea                                           1 0.0  0.0
+Órbigo River                                    1 0.0  0.0
+Orgaz                                           1 0.0  0.0
+Órgiva                                          1 0.0  0.0
+Oropesa                                         1 0.0  0.0
+Osorno                                          1 0.0  0.0
+Pacific Ocean                                   1 0.0  0.0
+Pactolo                                         1 0.0  0.0
+País                                            1 0.0  0.0
+Palacio de la Aljafería                         1 0.0  0.0
+Palamós                                         1 0.0  0.0
+Palatine Hill                                   1 0.0  0.0
+Palma de Sol                                    1 0.0  0.0
+Palmyra                                         1 0.0  0.0
+Panama                                          1 0.0  0.0
+Pancaya                                         1 0.0  0.0
+Pangaion Hills                                  1 0.0  0.0
+Pannonia                                        1 0.0  0.0
+Paraguay                                        1 0.0  0.0
+Paran                                           1 0.0  0.0
+Paraná                                          1 0.0  0.0
+Parda                                           1 0.0  0.0
+Pardo                                           1 0.0  0.0
+Partaria                                        1 0.0  0.0
+Partenio                                        1 0.0  0.0
+Parthenio                                       1 0.0  0.0
+Pastrana                                        1 0.0  0.0
+Paulo                                           1 0.0  0.0
+Paypurti                                        1 0.0  0.0
+Pecis                                           1 0.0  0.0
+Peñafiel                                        1 0.0  0.0
+Peñalén                                         1 0.0  0.0
+Peñanegra                                       1 0.0  0.0
+Peñaranda de Duero                              1 0.0  0.0
+Penco                                           1 0.0  0.0
+Peñón de Gibraltar                              1 0.0  0.0
+Peñón de Vélez de la Gomera                     1 0.0  0.0
+Pergamon                                        1 0.0  0.0
+Pernambuco                                      1 0.0  0.0
+Petralia                                        1 0.0  0.0
+Petrijón                                        1 0.0  0.0
+Philippines                                     1 0.0  0.0
+Piazza San Marco                                1 0.0  0.0
+Pícala                                          1 0.0  0.0
+Picardía                                        1 0.0  0.0
+Pie de Gruta                                    1 0.0  0.0
+Piedragruta                                     1 0.0  0.0
+Pindus Mountains                                1 0.0  0.0
+Pisuerga River                                  1 0.0  0.0
+plaza Ardenio                                   1 0.0  0.0
+Plaza de Antón Martín                           1 0.0  0.0
+Plaza de León                                   1 0.0  0.0
+plaza de San Francisco                          1 0.0  0.0
+plaza de Sanlúcar                               1 0.0  0.0
+plaza del Ángel                                 1 0.0  0.0
+Plaza del Capitolio                             1 0.0  0.0
+plaza del Rocío                                 1 0.0  0.0
+Plaza Nueva                                     1 0.0  0.0
+Plaza Real                                      1 0.0  0.0
+Pondelóu                                        1 0.0  0.0
+Pontevedra                                      1 0.0  0.0
+Ponto Negro                                     1 0.0  0.0
+Porto                                           1 0.0  0.0
+Portohércules                                   1 0.0  0.0
+Pozgaya                                         1 0.0  0.0
+Prada                                           1 0.0  0.0
+Prague                                          1 0.0  0.0
+Propontis                                       1 0.0  0.0
+Ptolemais in Phoenicia                          1 0.0  0.0
+Puche                                           1 0.0  0.0
+Puçol                                           1 0.0  0.0
+Puente de Eume                                  1 0.0  0.0
+Puentefusco                                     1 0.0  0.0
+Puerta Bisagra                                  1 0.0  0.0
+Puerta Cerrada                                  1 0.0  0.0
+Puerta de Guadalajara y Platería                1 0.0  0.0
+Puerta de Jeréz                                 1 0.0  0.0
+Puerta de la Vega                               1 0.0  0.0
+Puerta Real                                     1 0.0  0.0
+Puerto Rico                                     1 0.0  0.0
+Puglia                                          1 0.0  0.0
+Puigcerdà                                       1 0.0  0.0
+Pujarra                                         1 0.0  0.0
+Pulán                                           1 0.0  0.0
+Punta Delgada                                   1 0.0  0.0
+Purén                                           1 0.0  0.0
+Pylos                                           1 0.0  0.0
+Quiloa                                          1 0.0  0.0
+Quintanapalla                                   1 0.0  0.0
+Rafidín                                         1 0.0  0.0
+Ramallah                                        1 0.0  0.0
+Ramla                                           1 0.0  0.0
+Ravenna                                         1 0.0  0.0
+Reduán                                          1 0.0  0.0
+Regensburg                                      1 0.0  0.0
+Rennes                                          1 0.0  0.0
+Rentin                                          1 0.0  0.0
+Retiro                                          1 0.0  0.0
+Rialto                                          1 0.0  0.0
+Ribagorza                                       1 0.0  0.0
+Rijoles                                         1 0.0  0.0
+Río Tagarete                                    1 0.0  0.0
+Rivialmazán                                     1 0.0  0.0
+Roán                                            1 0.0  0.0
+Roda                                            1 0.0  0.0
+Roremonda                                       1 0.0  0.0
+Rosalba                                         1 0.0  0.0
+Roses                                           1 0.0  0.0
+Saelices                                        1 0.0  0.0
+Saint-Quentin                                   1 0.0  0.0
+Salas                                           1 0.0  0.0
+Salceda                                         1 0.0  0.0
+Salinas                                         1 0.0  0.0
+Salisbury                                       1 0.0  0.0
+Salsas                                          1 0.0  0.0
+Salso river                                     1 0.0  0.0
+Saluzzo                                         1 0.0  0.0
+Salvador                                        1 0.0  0.0
+Sambra                                          1 0.0  0.0
+San Angelo                                      1 0.0  0.0
+San Antolín                                     1 0.0  0.0
+San Blas                                        1 0.0  0.0
+San Clemente                                    1 0.0  0.0
+San Esteban                                     1 0.0  0.0
+San Germán                                      1 0.0  0.0
+San Gil                                         1 0.0  0.0
+San Jerónimo                                    1 0.0  0.0
+San Juan de Flores                              1 0.0  0.0
+San Juan de la Palma                            1 0.0  0.0
+San Lucas                                       1 0.0  0.0
+San Martín de la Vega                           1 0.0  0.0
+San Martín y Alaejos                            1 0.0  0.0
+San Nicolás                                     1 0.0  0.0
+San Nícolas                                     1 0.0  0.0
+San Payo                                        1 0.0  0.0
+San Pelayo                                      1 0.0  0.0
+San Ponce de Tomaras                            1 0.0  0.0
+San Román                                       1 0.0  0.0
+San Roque                                       1 0.0  0.0
+San Tiau                                        1 0.0  0.0
+San Vicente                                     1 0.0  0.0
+Sanderson                                       1 0.0  0.0
+Sangüesa/Zangoza                                1 0.0  0.0
+Santa Ana                                       1 0.0  0.0
+Santa Cruz                                      1 0.0  0.0
+Santa Engracia                                  1 0.0  0.0
+Santa Olalla                                    1 0.0  0.0
+Santa Susana                                    1 0.0  0.0
+Santander                                       1 0.0  0.0
+Santiago del Collado                            1 0.0  0.0
+Sañuela                                         1 0.0  0.0
+Sarepta                                         1 0.0  0.0
+Sarria                                          1 0.0  0.0
+Sayago                                          1 0.0  0.0
+Sea of Galilee                                  1 0.0  0.0
+Selaya                                          1 0.0  0.0
+Senaar                                          1 0.0  0.0
+Senar                                           1 0.0  0.0
+Sequera                                         1 0.0  0.0
+Serbia                                          1 0.0  0.0
+Sesa                                            1 0.0  0.0
+Sesarte                                         1 0.0  0.0
+Setubal                                         1 0.0  0.0
+Sidon                                           1 0.0  0.0
+Sierra de Capira                                1 0.0  0.0
+Sietevillas                                     1 0.0  0.0
+Sinai mountain                                  1 0.0  0.0
+Siquen                                          1 0.0  0.0
+Siracana                                        1 0.0  0.0
+Sirena                                          1 0.0  0.0
+Sirenas                                         1 0.0  0.0
+Sisla                                           1 0.0  0.0
+Slavonia                                        1 0.0  0.0
+Socot                                           1 0.0  0.0
+Sofala                                          1 0.0  0.0
+Somosierra                                      1 0.0  0.0
+Soria                                           1 0.0  0.0
+Sortiguera                                      1 0.0  0.0
+Soto de Manzanares                              1 0.0  0.0
+Strait of Magellan                              1 0.0  0.0
+Synagogue of Santa María la Blanca              1 0.0  0.0
+Tabarca                                         1 0.0  0.0
+Talcaguano                                      1 0.0  0.0
+Tamis                                           1 0.0  0.0
+Tántalo                                         1 0.0  0.0
+Taranto                                         1 0.0  0.0
+Tarazona                                        1 0.0  0.0
+Tarshish                                        1 0.0  0.0
+Taurus Mountains                                1 0.0  0.0
+Tejares                                         1 0.0  0.0
+Tel Megiddo                                     1 0.0  0.0
+Temetinda                                       1 0.0  0.0
+Temisnam                                        1 0.0  0.0
+Ténès                                           1 0.0  0.0
+Tepecas                                         1 0.0  0.0
+Terceira Island                                 1 0.0  0.0
+Themiscyra                                      1 0.0  0.0
+Thessaloniki                                    1 0.0  0.0
+Tiber                                           1 0.0  0.0
+Tierra del Fuego                                1 0.0  0.0
+Tirana                                          1 0.0  0.0
+Tiraza                                          1 0.0  0.0
+Tiria                                           1 0.0  0.0
+Tolentino                                       1 0.0  0.0
+Tondaya                                         1 0.0  0.0
+Toral de los Guzmanes                           1 0.0  0.0
+Tordelaguna                                     1 0.0  0.0
+Tordesillas                                     1 0.0  0.0
+Torre de Comares                                1 0.0  0.0
+Torre de Visagra                                1 0.0  0.0
+torre del Águila                                1 0.0  0.0
+Totipela                                        1 0.0  0.0
+Tralades                                        1 0.0  0.0
+Trento                                          1 0.0  0.0
+Trier                                           1 0.0  0.0
+Trinidad                                        1 0.0  0.0
+Triones                                         1 0.0  0.0
+Tucapel                                         1 0.0  0.0
+Tyrol                                           1 0.0  0.0
+Tyrrhenian Sea                                  1 0.0  0.0
+Urenia                                          1 0.0  0.0
+Urueña                                          1 0.0  0.0
+Vaciamadrid                                     1 0.0  0.0
+Val de Narciso                                  1 0.0  0.0
+Valdecalderas                                   1 0.0  0.0
+Valdecorneja                                    1 0.0  0.0
+Valdemoro                                       1 0.0  0.0
+Valle de Corneja                                1 0.0  0.0
+Valle de la Fuenfrida                           1 0.0  0.0
+Valle de Toranzo                                1 0.0  0.0
+Vandon                                          1 0.0  0.0
+Veraguas Province                               1 0.0  0.0
+Vercelli                                        1 0.0  0.0
+Verona                                          1 0.0  0.0
+Villacanes                                      1 0.0  0.0
+Villacastín                                     1 0.0  0.0
+Villaflor                                       1 0.0  0.0
+Villalón de Campos                              1 0.0  0.0
+Villalonso                                      1 0.0  0.0
+Villamartín                                     1 0.0  0.0
+Villanueva de la Jara                           1 0.0  0.0
+Villarreal                                      1 0.0  0.0
+Viterbo                                         1 0.0  0.0
+Vivar                                           1 0.0  0.0
+Vivares                                         1 0.0  0.0
+Wales                                           1 0.0  0.0
+Xàtiva                                          1 0.0  0.0
+Yelbes                                          1 0.0  0.0
+Yepes                                           1 0.0  0.0
+Zacatín                                         1 0.0  0.0
+Zahara                                          1 0.0  0.0
+Zakynthos                                       1 0.0  0.0
+Zalamea de la Serena                            1 0.0  0.0
+Zanfara                                         1 0.0  0.0
+Zape                                            1 0.0  0.0
+Zarzamora                                       1 0.0  0.0
+Zarzuela                                        1 0.0  0.0
+Zopiro                                          1 0.0  0.0
