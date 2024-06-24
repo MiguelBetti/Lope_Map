@@ -11563,51 +11563,6 @@
         ]
     },
     {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Peñas",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Peñas",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El alcalde de Zalamea",
-                "subgenre": "Villano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "284315",
         "uuid": "https://www.geonames.org/284315",
         "type": "Feature",
@@ -16051,96 +16006,6 @@
         ]
     },
     {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Nimi",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Nimi",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Aldehuela",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Beta y Mont",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Beta y Mont",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Aldehuela",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "2"
-            }
-        ]
-    },
-    {
         "@id": "3336900",
         "uuid": "https://www.geonames.org/3336900",
         "type": "Feature",
@@ -17635,51 +17500,6 @@
                 "subgenre": "Historial profano",
                 "genre": "Drama",
                 "date": "1621",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Berlián",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Berlián",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Aldehuela",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
                 "occurrences": "1"
             }
         ]
@@ -22696,51 +22516,6 @@
         ]
     },
     {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Eutrosa",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Eutrosa",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cerco de Viena y socorro por Carlos Quinto",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "400665",
         "uuid": "https://www.geonames.org/400665",
         "type": "Feature",
@@ -25117,51 +24892,6 @@
             {
                 "type": "closeMatch",
                 "identifier": "http://www.geonames.org/732800"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cerco de Viena y socorro por Carlos Quinto",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Carpeya",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Carpeya",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
             }
         ],
         "relations": [
@@ -28822,96 +28552,6 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1621",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Tántalo",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Tántalo",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cerco de Viena y socorro por Carlos Quinto",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "No identificado",
-        "uuid": "https://www.geonames.org/No identificado",
-        "type": "Feature",
-        "properties": {
-            "title": "Güelmes",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Güelmes",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/No identificado"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El cerco de Viena y socorro por Carlos Quinto",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "Sin fecha",
                 "occurrences": "1"
             }
         ]
