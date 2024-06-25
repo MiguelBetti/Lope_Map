@@ -41982,8 +41982,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -1.65,
-                42.816666666667
+                -1.66667,
+                42.75
             ]
         },
         "descriptions": [
@@ -50040,7 +50040,7 @@
             "title": "Indias",
             "occurrences": [
                 {
-                    "value": 200
+                    "value": 194
                 }
             ]
         },
@@ -50053,7 +50053,7 @@
         },
         "descriptions": [
             {
-                "value": "200 ocurrencia(s)"
+                "value": "194 ocurrencia(s)"
             }
         ],
         "names": [
@@ -50091,14 +50091,6 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las mocedades de Bernardo del Carpio",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1634",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "El toledano vengado y celoso vengado",
                 "subgenre": "Urbano",
                 "genre": "Comedia",
@@ -50111,14 +50103,6 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1618",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El alcaide de Madrid",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
                 "occurrences": "1"
             },
             {
@@ -50207,14 +50191,6 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Barlaán y Josafat, autógrafo",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
                 "occurrences": "1"
             },
             {
@@ -50382,14 +50358,6 @@
                 "title": "El favor agradecido",
                 "subgenre": "Palatino",
                 "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Lo fingido verdadero",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
                 "date": "1621",
                 "occurrences": "1"
             },
@@ -50611,14 +50579,6 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "El primer rey de Castilla",
-                "subgenre": "Historial profano",
-                "genre": "Drama",
-                "date": "1621",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "El príncipe despeinado",
                 "subgenre": "Historial profano",
                 "genre": "Drama",
@@ -50743,14 +50703,6 @@
                 "subgenre": "Historial profano",
                 "genre": "Drama",
                 "date": "1630",
-                "occurrences": "2"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Los mártires de Japón",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "Sin fecha",
                 "occurrences": "2"
             }
         ]
@@ -71039,7 +70991,7 @@
             "title": "Irlanda",
             "occurrences": [
                 {
-                    "value": 81
+                    "value": 65
                 }
             ]
         },
@@ -71159,8 +71111,51 @@
                 "genre": "Comedia",
                 "date": "1614",
                 "occurrences": "2"
+            }
+        ]
+    },
+    {
+        "@id": "296359784785",
+        "uuid": "https://www.geonames.org/2963597",
+        "type": "Feature",
+        "properties": {
+            "title": "Ibernia",
+            "occurrences": [
+                {
+                    "value": 16
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6,
+                54
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "16 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Ibernia",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
             },
-             {
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/2963597"
+            }
+        ],
+        "relations": [
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "El juez en su causa",
                 "subgenre": "Palatino",
@@ -72206,10 +72201,10 @@
         "uuid": "https://www.geonames.org/1202950",
         "type": "Feature",
         "properties": {
-            "title": "Gange",
+            "title": "Ganges",
             "occurrences": [
                 {
-                    "value": 11
+                    "value": 13
                 }
             ]
         },
@@ -72222,7 +72217,7 @@
         },
         "descriptions": [
             {
-                "value": "11 ocurrencia(s)"
+                "value": "13 ocurrencia(s)"
             }
         ],
         "names": [
@@ -72242,6 +72237,14 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Angélica en el Catay",
+                "subgenre": "Caballeresco",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Barlaán y Josafat, autógrafo",
@@ -72285,6 +72288,14 @@
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Las grandezas de Alejandro",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El primer rey de Castilla",
                 "subgenre": "Historial profano",
                 "genre": "Drama",
                 "date": "1621",
@@ -75543,57 +75554,6 @@
                 "subgenre": "Villano",
                 "genre": "Comedia",
                 "date": "1619",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6452756",
-        "uuid": "https://www.geonames.org/6452756",
-        "type": "Feature",
-        "properties": {
-            "title": "Prados",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -3.692222222222222,
-                40.41388888888889
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Prados",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6452756"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Las bizarrías de Belisa",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1637",
                 "occurrences": "1"
             }
         ]
@@ -97973,7 +97933,7 @@
             "title": "México",
             "occurrences": [
                 {
-                    "value": 11
+                    "value": 12
                 }
             ]
         },
@@ -97986,7 +97946,7 @@
         },
         "descriptions": [
             {
-                "value": "11 ocurrencia(s)"
+                "value": "12 ocurrencia(s)"
             }
         ],
         "names": [
@@ -98006,6 +97966,14 @@
             }
         ],
         "relations": [
+           {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Angélica en el Catay",
+                "subgenre": "Caballeresco",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "El galán escarmentado",
@@ -103950,10 +103918,10 @@
         "uuid": "https://www.geonames.org/6255147",
         "type": "Feature",
         "properties": {
-            "title": "Indias Orientales",
+            "title": "Indias (Orientales)",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 12
                 }
             ]
         },
@@ -103966,7 +103934,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "12 ocurrencia(s)"
             }
         ],
         "names": [
@@ -103986,6 +103954,14 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Barlaán y Josafat, autógrafo",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "Sin fecha",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Los locos de Valencia",
@@ -104009,6 +103985,62 @@
                 "genre": "Comedia",
                 "date": "Sin fecha",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El alcaide de Madrid",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "Sin fecha",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Las mocedades de Bernardo del Carpio",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1634",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La bella aurora",
+                "subgenre": "Mitológico",
+                "genre": "Drama",
+                "date": "1635",
+                "occurrences": "1"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Lo fingido verdadero",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El postrer godo de España",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "El primer rey de Castilla",
+                "subgenre": "Historial profano",
+                "genre": "Drama",
+                "date": "1621",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Los mártires de Japón",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "Sin fecha",
+                "occurrences": "2"
             }
         ]
     },
@@ -121021,6 +121053,124 @@
                 "title": "La viuda, casada y doncella",
                 "subgenre": "Urbano",
                 "genre": "Comedia",
+                "date": "1617",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "4155751",
+        "uuid": "https://www.geonames.org/4155751",
+        "type": "Feature",
+        "properties": {
+            "title": "Florida",
+            "occurrences": [
+                {
+                    "value": 3
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -82.5001,
+                28.75054
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "3 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Florida",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/4155751"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Angélica en el Catay",
+                "subgenre": "Caballeresco",
+                "genre": "Drama",
+                "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Las bizarrías de Belisa",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1637",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La Filisarda",
+                "subgenre": "Palatino",
+                "genre": "Comedia",
+                "date": "1621",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "9987367",
+        "uuid": "https://www.geonames.org/9987367",
+        "type": "Feature",
+        "properties": {
+            "title": "Mangli",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98.5733,
+                24.3601
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Mangli",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/9987367"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Angélica en el Catay",
+                "subgenre": "Caballeresco",
+                "genre": "Drama",
                 "date": "1617",
                 "occurrences": "1"
             }
