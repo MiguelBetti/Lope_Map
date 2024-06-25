@@ -60466,7 +60466,7 @@
             "type": "Point",
             "coordinates": [
                 -6.0289,
-                7.36098
+                37.36098
             ]
         },
         "descriptions": [
@@ -66984,7 +66984,7 @@
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
-            "title": "monte Tauro",
+            "title": "Monte Tauro",
             "occurrences": [
                 {
                     "value": 1
