@@ -83545,7 +83545,7 @@
             "title": "Transilvania",
             "occurrences": [
                 {
-                    "value": 13
+                    "value": 19
                 }
             ]
         },
@@ -83558,7 +83558,7 @@
         },
         "descriptions": [
             {
-                "value": "13 ocurrencia(s)"
+                "value": "19 ocurrencia(s)"
             }
         ],
         "names": [
@@ -83640,16 +83640,33 @@
                 "subgenre": "Palatino",
                 "genre": "Comedia",
                 "date": "1621",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "San Diego de Alcalá",
+                "subgenre": "Historial religioso",
+                "genre": "Drama",
+                "date": "1653",
                 "occurrences": "1"
             },
-               {
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La vengadora de las mujeres",
+                "title": "La serrana de la vera",
+                "subgenre": "Urbano",
+                "genre": "Comedia",
+                "date": "1617",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "La sortija del olvido",
                 "subgenre": "Palatino",
                 "genre": "Comedia",
-                "date": "1621",
-                "occurrences": "1"
+                "date": "1619",
+                "occurrences": "4"
             }
+
         ]
     },
     {
@@ -88807,7 +88824,7 @@
         ]
     },
     {
-        "@id": "9876543",
+        "@id": "2267430",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
@@ -88821,8 +88838,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                43.20,
-                41
+                -5,
+                40
             ]
         },
         "descriptions": [
@@ -101196,7 +101213,7 @@
         "uuid": "https://www.geonames.org/630671",
         "type": "Feature",
         "properties": {
-            "title": "Caspio",
+            "title": "Mar Caspio",
             "occurrences": [
                 {
                     "value": 2
@@ -115274,57 +115291,6 @@
         ]
     },
     {
-        "@id": "664661",
-        "uuid": "https://www.geonames.org/664661",
-        "type": "Feature",
-        "properties": {
-            "title": "Transilvanía",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                23.583333333333,
-                46.766666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Transilvanía",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/664661"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "San Diego de Alcalá",
-                "subgenre": "Historial religioso",
-                "genre": "Drama",
-                "date": "1653",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "2593109",
         "uuid": "https://www.geonames.org/2593109",
         "type": "Feature",
@@ -117062,65 +117028,6 @@
                 "genre": "Drama",
                 "date": "1624",
                 "occurrences": "3"
-            }
-        ]
-    },
-    {
-        "@id": "664661",
-        "uuid": "https://www.geonames.org/664661",
-        "type": "Feature",
-        "properties": {
-            "title": "Trasilvania",
-            "occurrences": [
-                {
-                    "value": 5
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                23.583333333333,
-                46.766666666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "5 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Trasilvania",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/664661"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La serrana de la vera",
-                "subgenre": "Urbano",
-                "genre": "Comedia",
-                "date": "1617",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La sortija del olvido",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1619",
-                "occurrences": "4"
             }
         ]
     },
@@ -121066,7 +120973,7 @@
             "title": "Florida",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 2
                 }
             ]
         },
@@ -121079,7 +120986,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -121113,14 +121020,6 @@
                 "subgenre": "Urbano",
                 "genre": "Comedia",
                 "date": "1637",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La Filisarda",
-                "subgenre": "Palatino",
-                "genre": "Comedia",
-                "date": "1621",
                 "occurrences": "1"
             }
         ]
