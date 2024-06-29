@@ -5,7 +5,7 @@ This map is part of the project _El mundo de Lope de Vega_ (2024-2025). It shows
 
 Peripleo is a prototype application for the discovery and spatial visualisation of collection data, originally an initiative of the Pelagios Network and developed early in 2022 as part of the British Library's Locating a National Collection project (LaNC).
 
-![Preview of the map of the projet Desenrollando el cordel](map_preview.png)
+![Preview of the map of the projet](map_preview.png)
 
 
 ## LinkedPlaces Data
