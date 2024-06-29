@@ -3,7 +3,7 @@ import React from 'react';
 const tour = [{
   target: '.p6o-search-button',
   title: 'La aventura comienza aquí',
-  content: 'Haga click en el botón del catalejo para realizar una búsqueda específica por topónimos.',
+  content: 'Haga click en la lupa para realizar una búsqueda específica por topónimos.',
   disableBeacon: true
 }, {
   target: '.p6o-filters-button',

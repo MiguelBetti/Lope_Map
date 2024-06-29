@@ -239,7 +239,7 @@ const ItemListCard = props => {
             <div className="p6o-external-link-meta">
               <a
                 title={manuscript.relationTo}>
-                  {manuscript.title} ({manuscript.occurrences}))
+                  {manuscript.title} ({manuscript.occurrences})
               </a>
             </div>
           </li>
