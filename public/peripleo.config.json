@@ -4,7 +4,7 @@
   "disableMyLocation": true,
   "data": [
     {
-      "name": "Comedias y dramas",
+      "name": "El mundo de Lope de Vega",
       "format": "LINKED_PLACES",
       "type_object": ["Manuscript", "Manuscripts"],
       "src": "./data/data.json",
