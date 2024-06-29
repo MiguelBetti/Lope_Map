@@ -12,7 +12,7 @@ const tour = [{
 },{
   target: '.p6o-facets',
   title: 'Categorías',
-  content: 'El panel de filtros muestra distintos tipos de datos en diferentes colores, según la categoría seleccionada: género, subgénero u obra.',
+  content: 'El panel de filtros muestra distintos tipos de datos en diferentes colores, según la categoría seleccionada: género, subgénero, obra, fecha, etc.',
   disableBeacon: true
 },{
   target: '.p6o-facets-carousel',

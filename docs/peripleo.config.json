@@ -14,7 +14,12 @@
   "facets": [
 	  { "name": "Género", "path": ["relations", "genre"] },
 	  { "name": "Subgénero", "path": ["relations", "subgenre"] },
-	  { "name": "Obras", "path": ["relations", "title"] }
+    { "name": "Fecha", "path": ["relations", "Date"] },
+    { "name": "Periodo", "path": ["relations", "Period"] },
+    { "name": "Tipo de lugar", "path": ["relations", "Type"] },
+	  { "name": "Obras", "path": ["relations", "title"] },
+    { "name": "Fecha de publicación", "path": ["relations", "Publication date"] }
+
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
