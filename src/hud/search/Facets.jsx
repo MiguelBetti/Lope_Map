@@ -134,7 +134,7 @@ const Facets = props => {
           {props.arrows &&
             <button 
               tabIndex={4}
-              aria-label="Previous filter category"
+              aria-label="Categoría de filtro anterior"
               onClick={props.onPreviousFacet}>
               <HiOutlineChevronLeft />
             </button>
@@ -149,7 +149,7 @@ const Facets = props => {
           {props.arrows && 
             <button
               tabIndex={5}
-              aria-label="Next filter category" 
+              aria-label="Categoría de filtro siguiente" 
               onClick={props.onNextFacet}>
               <HiOutlineChevronRight />
             </button>
