@@ -41,7 +41,7 @@ const ShareModal = props => {
       
       <div className="p6o-share-modal">
         <section className="p6o-share-url">
-          <h2>Enlace a este mapa</h2>
+          <h2>Link to this map</h2>
           <input 
             readOnly
             value={url} 
@@ -49,7 +49,7 @@ const ShareModal = props => {
         </section>
 
         <section className="p6o-embed-code">
-          <h2>Incluir este mapa</h2>
+          <h2>Embed this map</h2>
           <input
             readOnly
             value={embedCode} 
@@ -57,7 +57,8 @@ const ShareModal = props => {
           <footer>
             <a 
               href="https://github.com/britishlibrary/peripleo/blob/main/Configuration-Guide.md#-embedding-your-map"
-              target="_blank">Click aquí</a> para las instrucciones MediaWiki
+              target="_blank">See here</a> for MediaWiki instructions
+          </footer>
         </section>
       </div>
     </div>, document.body
