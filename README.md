@@ -1,7 +1,10 @@
 [<img title="Pelagios Network" src="./logos/pelagios.svg" height="60" align="left">](https://pelagios.org/)
-# Peripleo | El mundo de Lope de Vega 🌍
 
-This [map](https://miguelbetti.github.io/Lope_peripleo/#/?/?/?/mode=points) is part of the project _El mundo de Lope de Vega_ (2024-2025). It shows the names of the places detected with machine learning in 378 plays. With this visualisation, users can search places and filter them by genre, subgenre, title, date, etc.
+# Peripleo | Mapping Lope: A Cartographic Exploration of the Comedia Nueva 🌍
+
+_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025–2027) is a Swiss National Science Fund (SNSF) funded project that uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. Combining Philology, Literary Geography, and machine learning, it aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through automated extraction of place names, interactive maps, graphs, and statistics, the project offers new insights into the role of space in Spanish Golden Age drama.
+
+This [map](https://miguelbetti.github.io/Lope_Map) shows the names of the places detected with machine learning in 359 plays. With this visualisation, users can search places and filter them by genre, subgenre, title, date, etc.
 
 Peripleo is a prototype application for the discovery and spatial visualisation of collection data, originally an initiative of the Pelagios Network and developed early in 2022 as part of the British Library's Locating a National Collection project (LaNC).
 
